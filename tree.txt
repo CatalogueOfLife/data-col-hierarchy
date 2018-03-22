@@ -1,5 +1,5 @@
-Animalia [kingdom] 1552319 ssp, ref59
-  Chordata [phylum] 49693 ssp, ref7
+Animalia [kingdom] 1552319 Zhang, 2011
+  Chordata [phylum] 49693 Brusca, 2003
     Aves [class]
       Pelecaniformes [order]
         Threskiornithidae [family]
@@ -472,12 +472,12 @@ Animalia [kingdom] 1552319 ssp, ref59
       Lepidosireniformes [order]
         Lepidosirenidae [family]
         Protopteridae [family]
-      Ceratodontiformes [order] 6 ssp, ref17
+      Ceratodontiformes [order] 6 Nelson, 2006
         Neoceratodontidae [family]
-      Coelacanthiformes [order] 2 ssp, ref17
+      Coelacanthiformes [order] 2 Nelson, 2006
         Latimeriidae [family]
     Actinopterygii [class]
-      Aulopiformes [order] 236 ssp, ref17
+      Aulopiformes [order] 236 Nelson, 2006
         Omosudidae [family]
         Paralepididae [family]
         Synodontidae [family]
@@ -494,14 +494,14 @@ Animalia [kingdom] 1552319 ssp, ref59
         Aulopidae [family]
         Anotopteridae [family]
         Alepisauridae [family]
-      Zeiformes [order] 32 ssp, ref17
+      Zeiformes [order] 32 Nelson, 2006
         Zeniontidae [family]
         Grammicolepididae [family]
         Oreosomatidae [family]
         Zeidae [family]
         Parazenidae [family]
         Cyttidae [family]
-      Tetraodontiformes [order] 357 ssp, ref17
+      Tetraodontiformes [order] 357 Nelson, 2006
         Triodontidae [family]
         Triacanthodidae [family]
         Tetraodontidae [family]
@@ -518,21 +518,21 @@ Animalia [kingdom] 1552319 ssp, ref59
         Centriscidae [family]
         Fistulariidae [family]
         Aulostomidae [family]
-      Synbranchiformes [order] 99 ssp, ref17
+      Synbranchiformes [order] 99 Nelson, 2006
         Synbranchidae [family]
         Mastacembelidae [family]
         Chaudhuriidae [family]
-      Stomiiformes [order] 391 ssp, ref17
+      Stomiiformes [order] 391 Nelson, 2006
         Sternoptychidae [family]
         Stomiidae [family]
         Phosichthyidae [family]
         Gonostomatidae [family]
-      Stephanoberyciformes [order] 75 ssp, ref17
+      Stephanoberyciformes [order] 75 Nelson, 2006
         Stephanoberycidae [family]
         Gibberichthyidae [family]
         Melamphaidae [family]
         Hispidoberycidae [family]
-      Siluriformes [order] 2867 ssp, ref17
+      Siluriformes [order] 2867 Nelson, 2006
         Trichomycteridae [family]
         Sisoridae [family]
         Siluridae [family]
@@ -571,7 +571,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Anchariidae [family]
         Amblycipitidae [family]
         Akysidae [family]
-      Scorpaeniformes [order] 1477 ssp, ref17
+      Scorpaeniformes [order] 1477 Nelson, 2006
         Triglidae [family]
         Tetrarogidae [family]
         Sebastidae [family]
@@ -608,16 +608,16 @@ Animalia [kingdom] 1552319 ssp, ref59
         Apistidae [family]
         Abyssocottidae [family]
         Agonidae [family]
-      Salmoniformes [order] 66 ssp, ref17
+      Salmoniformes [order] 66 Nelson, 2006
         Salmonidae [family]
-      Saccopharyngiformes [order] 28 ssp, ref17
+      Saccopharyngiformes [order] 28 Nelson, 2006
         Saccopharyngidae [family]
         Cyematidae [family]
         Eurypharyngidae [family]
         Monognathidae [family]
-      Polypteriformes [order] 16 ssp, ref17
+      Polypteriformes [order] 16 Nelson, 2006
         Polypteridae [family]
-      Pleuronectiformes [order] 678 ssp, ref17
+      Pleuronectiformes [order] 678 Nelson, 2006
         Scophthalmidae [family]
         Soleidae [family]
         Samaridae [family]
@@ -629,13 +629,13 @@ Animalia [kingdom] 1552319 ssp, ref59
         Citharidae [family]
         Achiropsettidae [family]
         Achiridae [family]
-      Polymixiiformes [order] 10 ssp, ref17
+      Polymixiiformes [order] 10 Nelson, 2006
         Polymixiidae [family]
-      Percopsiformes [order] 9 ssp, ref17
+      Percopsiformes [order] 9 Nelson, 2006
         Percopsidae [family]
         Aphredoderidae [family]
         Amblyopsidae [family]
-      Perciformes [order] 10033 ssp, ref17
+      Perciformes [order] 10033 Nelson, 2006
         Zoarcidae [family]
         Xiphiidae [family]
         Zaproridae [family]
@@ -799,7 +799,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Amarsipidae [family]
         Acanthuridae [family]
         Acropomatidae [family]
-      Osteoglossiformes [order] 218 ssp, ref17
+      Osteoglossiformes [order] 218 Nelson, 2006
         Pantodontidae [family]
         Osteoglossidae [family]
         Notopteridae [family]
@@ -807,7 +807,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Gymnarchidae [family]
         Hiodontidae [family]
         Arapaimidae [family]
-      Osmeriformes [order] 88 ssp, ref17
+      Osmeriformes [order] 88 Nelson, 2006
         Salangidae [family]
         Retropinnidae [family]
         Plecoglossidae [family]
@@ -821,7 +821,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Bathylagidae [family]
         Galaxiidae [family]
         Alepocephalidae [family]
-      Ophidiiformes [order] 385 ssp, ref17
+      Ophidiiformes [order] 385 Nelson, 2006
         Parabrotulidae [family]
         Ophidiidae [family]
         Carapidae [family]
@@ -830,12 +830,12 @@ Animalia [kingdom] 1552319 ssp, ref59
       Notacanthiformes [order]
         Notacanthidae [family]
         Halosauridae [family]
-      Myctophiformes [order] 246 ssp, ref17
+      Myctophiformes [order] 246 Nelson, 2006
         Neoscopelidae [family]
         Myctophidae [family]
-      Mugiliformes [order] 72 ssp, ref17
+      Mugiliformes [order] 72 Nelson, 2006
         Mugilidae [family]
-      Lophiiformes [order] 313 ssp, ref17
+      Lophiiformes [order] 313 Nelson, 2006
         Thaumatichthyidae [family]
         Oneirodidae [family]
         Tetrabrachiidae [family]
@@ -854,7 +854,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Caulophrynidae [family]
         Antennariidae [family]
         Diceratiidae [family]
-      Lampriformes [order] 21 ssp, ref17
+      Lampriformes [order] 21 Nelson, 2006
         Stylephoridae [family]
         Trachipteridae [family]
         Veliferidae [family]
@@ -862,20 +862,20 @@ Animalia [kingdom] 1552319 ssp, ref59
         Regalecidae [family]
         Lophotidae [family]
         Lampridae [family]
-      Lepisosteiformes [order] 7 ssp, ref17
+      Lepisosteiformes [order] 7 Nelson, 2006
         Lepisosteidae [family]
-      Gymnotiformes [order] 134 ssp, ref17
+      Gymnotiformes [order] 134 Nelson, 2006
         Sternopygidae [family]
         Rhamphichthyidae [family]
         Gymnotidae [family]
         Hypopomidae [family]
         Apteronotidae [family]
-      Gonorynchiformes [order] 37 ssp, ref17
+      Gonorynchiformes [order] 37 Nelson, 2006
         Phractolaemidae [family]
         Kneriidae [family]
         Gonorynchidae [family]
         Chanidae [family]
-      Gasterosteiformes [order] 278 ssp, ref17
+      Gasterosteiformes [order] 278 Nelson, 2006
         Pegasidae [family]
         Indostomidae [family]
         Gasterosteidae [family]
@@ -883,7 +883,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Aulorhynchidae [family]
       Gobiesociformes [order]
         Gobiesocidae [family]
-      Gadiformes [order] 555 ssp, ref17
+      Gadiformes [order] 555 Nelson, 2006
         Phycidae [family]
         Muraenolepididae [family]
         Merlucciidae [family]
@@ -894,13 +894,13 @@ Animalia [kingdom] 1552319 ssp, ref59
         Gadidae [family]
         Euclichthyidae [family]
         Bregmacerotidae [family]
-      Esociformes [order] 10 ssp, ref17
+      Esociformes [order] 10 Nelson, 2006
         Umbridae [family]
         Esocidae [family]
-      Elopiformes [order] 8 ssp, ref17
+      Elopiformes [order] 8 Nelson, 2006
         Megalopidae [family]
         Elopidae [family]
-      Cyprinodontiformes [order] 1013 ssp, ref17
+      Cyprinodontiformes [order] 1013 Nelson, 2006
         Valenciidae [family]
         Rivulidae [family]
         Profundulidae [family]
@@ -911,7 +911,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Fundulidae [family]
         Aplocheilidae [family]
         Anablepidae [family]
-      Cypriniformes [order] 3268 ssp, ref17
+      Cypriniformes [order] 3268 Nelson, 2006
         Serpenticobitidae [family]
         Vaillantellidae [family]
         Nemacheilidae [family]
@@ -923,14 +923,14 @@ Animalia [kingdom] 1552319 ssp, ref59
         Cyprinidae [family]
         Barbuccidae [family]
         Balitoridae [family]
-      Clupeiformes [order] 364 ssp, ref17
+      Clupeiformes [order] 364 Nelson, 2006
         Engraulidae [family]
         Pristigasteridae [family]
         Dussumieriidae [family]
         Denticipitidae [family]
         Clupeidae [family]
         Chirocentridae [family]
-      Characiformes [order] 1674 ssp, ref17
+      Characiformes [order] 1674 Nelson, 2006
         Parodontidae [family]
         Prochilodontidae [family]
         Serrasalmidae [family]
@@ -957,7 +957,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Cetomimidae [family]
         Rondeletiidae [family]
         Barbourisiidae [family]
-      Beryciformes [order] 144 ssp, ref17
+      Beryciformes [order] 144 Nelson, 2006
         Trachichthyidae [family]
         Monocentridae [family]
         Holocentridae [family]
@@ -965,16 +965,16 @@ Animalia [kingdom] 1552319 ssp, ref59
         Berycidae [family]
         Anoplogastridae [family]
         Anomalopidae [family]
-      Beloniformes [order] 227 ssp, ref17
+      Beloniformes [order] 227 Nelson, 2006
         Zenarchopteridae [family]
         Scomberesocidae [family]
         Hemiramphidae [family]
         Exocoetidae [family]
         Adrianichthyidae [family]
         Belonidae [family]
-      Batrachoidiformes [order] 78 ssp, ref17
+      Batrachoidiformes [order] 78 Nelson, 2006
         Batrachoididae [family]
-      Atheriniformes [order] 312 ssp, ref17
+      Atheriniformes [order] 312 Nelson, 2006
         Pseudomugilidae [family]
         Telmatherinidae [family]
         Notocheiridae [family]
@@ -985,9 +985,9 @@ Animalia [kingdom] 1552319 ssp, ref59
         Bedotiidae [family]
         Atherinidae [family]
         Atherinopsidae [family]
-      Ateleopodiformes [order] 12 ssp, ref17
+      Ateleopodiformes [order] 12 Nelson, 2006
         Ateleopodidae [family]
-      Anguilliformes [order] 791 ssp, ref17
+      Anguilliformes [order] 791 Nelson, 2006
         Synaphobranchidae [family]
         Serrivomeridae [family]
         Protanguillidae [family]
@@ -1004,11 +1004,11 @@ Animalia [kingdom] 1552319 ssp, ref59
         Colocongridae [family]
         Chlopsidae [family]
         Anguillidae [family]
-      Albuliformes [order] 30 ssp, ref17
+      Albuliformes [order] 30 Nelson, 2006
         Albulidae [family]
-      Amiiformes [order] 1 ssp, ref17
+      Amiiformes [order] 1 Nelson, 2006
         Amiidae [family]
-      Acipenseriformes [order] 27 ssp, ref17
+      Acipenseriformes [order] 27 Nelson, 2006
         Polyodontidae [family]
         Acipenseridae [family]
     Reptilia [class]
@@ -1421,24 +1421,24 @@ Animalia [kingdom] 1552319 ssp, ref59
       Pareiasaurida [order]
         Elginioidea [superfamily]
           Elginiidae [family]
-    Myxini [class] 70 ssp, ref41
-      Myxiniformes [order] 70 ssp, ref5
+    Myxini [class] 70 Nelson, 2006
+      Myxiniformes [order] 70 Nelson, 2006
         Myxinidae [family]
-    Holocephali [class] 33 ssp, ref41
-      Chimaeriformes [order] 33 ssp, ref5
+    Holocephali [class] 33 Nelson, 2006
+      Chimaeriformes [order] 33 Nelson, 2006
         Chimaeridae [family]
         Rhinochimaeridae [family]
         Callorhinchidae [family]
-    Elasmobranchii [class] 935 ssp, ref57
-      Torpediniformes [order] 59 ssp, ref17
+    Elasmobranchii [class] 935 Nelson, 2006
+      Torpediniformes [order] 59 Nelson, 2006
         Platyrhinidae [family]
         Torpedinidae [family]
         Narkidae [family]
         Hypnidae [family]
         Narcinidae [family]
-      Squatiniformes [order] 15 ssp, ref17
+      Squatiniformes [order] 15 Nelson, 2006
         Squatinidae [family]
-      Squaliformes [order] 97 ssp, ref17
+      Squaliformes [order] 97 Nelson, 2006
         Squalidae [family]
         Somniosidae [family]
         Oxynotidae [family]
@@ -1451,13 +1451,13 @@ Animalia [kingdom] 1552319 ssp, ref59
         Glaucostegidae [family]
         Rhinidae [family]
         Pristidae [family]
-      Rajiformes [order] 285 ssp, ref17
+      Rajiformes [order] 285 Nelson, 2006
         Arhynchobatidae [family]
         Rajidae [family]
         Anacanthobatidae [family]
-      Pristiophoriformes [order] 5 ssp, ref17
+      Pristiophoriformes [order] 5 Nelson, 2006
         Pristiophoridae [family]
-      Orectolobiformes [order] 32 ssp, ref17
+      Orectolobiformes [order] 32 Nelson, 2006
         Stegostomatidae [family]
         Rhincodontidae [family]
         Orectolobidae [family]
@@ -1465,7 +1465,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Parascylliidae [family]
         Hemiscylliidae [family]
         Brachaeluridae [family]
-      Myliobatiformes [order] 183 ssp, ref17
+      Myliobatiformes [order] 183 Nelson, 2006
         Urotrygonidae [family]
         Urolophidae [family]
         Potamotrygonidae [family]
@@ -1474,7 +1474,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Plesiobatidae [family]
         Gymnuridae [family]
         Dasyatidae [family]
-      Lamniformes [order] 15 ssp, ref17
+      Lamniformes [order] 15 Nelson, 2006
         Odontaspididae [family]
         Pseudocarchariidae [family]
         Lamnidae [family]
@@ -1482,10 +1482,10 @@ Animalia [kingdom] 1552319 ssp, ref59
         Mitsukurinidae [family]
         Alopiidae [family]
         Cetorhinidae [family]
-      Hexanchiformes [order] 5 ssp, ref17
+      Hexanchiformes [order] 5 Nelson, 2006
         Hexanchidae [family]
         Chlamydoselachidae [family]
-      Carcharhiniformes [order] 224 ssp, ref17
+      Carcharhiniformes [order] 224 Nelson, 2006
         Triakidae [family]
         Scyliorhinidae [family]
         Sphyrnidae [family]
@@ -1494,7 +1494,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Leptochariidae [family]
         Hemigaleidae [family]
         Carcharhinidae [family]
-      Heterodontiformes [order] 8 ssp, ref17
+      Heterodontiformes [order] 8 Nelson, 2006
         Heterodontidae [family]
     Ascidiacea [class]
       Aplousobranchia [order]
@@ -1541,8 +1541,8 @@ Animalia [kingdom] 1552319 ssp, ref59
         Pyrosomatidae [family]
       Salpida [order]
         Salpidae [family]
-    Cephalaspidomorphi [class] 38 ssp, ref57
-      Petromyzontiformes [order] 38 ssp, ref5
+    Cephalaspidomorphi [class] 38 Nelson, 2006
+      Petromyzontiformes [order] 38 Nelson, 2006
         Petromyzontidae [family]
         Mordaciidae [family]
         Geotriidae [family]
@@ -1613,7 +1613,7 @@ Animalia [kingdom] 1552319 ssp, ref59
     Leptocardii [class]
       Not assigned [order]
         Branchiostomatidae [family]
-  Ctenophora [phylum] 242 ssp, ref59
+  Ctenophora [phylum] 242 Zhang, 2011
     Tentaculata [class]
       Cydippida [order]
         Lampeidae [family]
@@ -1665,7 +1665,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Fasciculidae [family]
         Xanioascidae [family]
         Not assigned [family]
-  Cephalorhyncha [phylum] 198 ssp, ref51
+  Cephalorhyncha [phylum] 198 Zhang, 2011
     Kinorhyncha [class]
       Cyclorhagida [order]
         Not assigned [family]
@@ -1688,8 +1688,8 @@ Animalia [kingdom] 1552319 ssp, ref59
         Chaetostephanidae [family]
         Priapulidae [family]
         Tubiluchidae [family]
-  Arthropoda [phylum] 1214295 ssp, ref59
-    Remipedia [class] 12 ssp, ref7
+  Arthropoda [phylum] 1214295 Zhang, 2011
+    Remipedia [class] 12 Brusca, 2003
       Nectiopoda [order]
         Not assigned [family]
         Cryptocorynetidae [family]
@@ -1699,7 +1699,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Speleonectidae [family]
         Kumongidae [family]
         Godzilliidae [family]
-    Malacostraca [class] 40200 ssp, ref7
+    Malacostraca [class] 40200 Brusca, 2003
       Decapoda [order]
         Grapsoidea [superfamily]
           Xenograpsidae [family]
@@ -2435,8 +2435,8 @@ Animalia [kingdom] 1552319 ssp, ref59
         Tulumellidae [family]
         Monodellidae [family]
         Thermosbaenidae [family]
-    Arachnida [class] 110615 ssp, ref59
-      Araneae [order] 44863 ssp, ref59
+    Arachnida [class] 110615 Zhang, 2011
+      Araneae [order] 44863 Zhang, 2011
         Trachelidae [family]
         Titanoecidae [family]
         Thomisidae [family]
@@ -2550,40 +2550,40 @@ Animalia [kingdom] 1552319 ssp, ref59
         Viridasiidae [family]
         Zodariidae [family]
         Zoropsidae [family]
-      Scorpiones [order] 2109 ssp, ref59
-        Typhlochactidae [family] 11 ssp, ref25
-        Troglotayosicidae [family] 5 ssp, ref53
-        Superstitioniidae [family] 1 ssp, ref42
-        Scorpionidae [family] 299 ssp, ref19
-        Pseudochactidae [family] 6 ssp, ref40
-        Iuridae [family] 14 ssp, ref39
-        Hormuridae [family] 81 ssp, ref61
-        Heteroscorpionidae [family] 6 ssp, ref52
-        Hemiscorpiidae [family] 15 ssp, ref50
-        Euscorpiidae [family] 133 ssp, ref47
-        Chaerilidae [family] 40 ssp, ref55
-        Chactidae [family] 183 ssp, ref13
-        Caraboctonidae [family] 29 ssp, ref60
-        Buthidae [family] 1062 ssp, ref31
-        Bothriuridae [family] 150 ssp, ref56
-        Akravidae [family] 1 ssp, ref6
-        Vaejovidae [family] 198 ssp, ref3
-      Ixodida [order] 897 ssp, ref59
+      Scorpiones [order] 2109 Zhang, 2011
+        Typhlochactidae [family] 11 Rein, 2015
+        Troglotayosicidae [family] 5 Rein, 2015
+        Superstitioniidae [family] 1 Rein, 2015
+        Scorpionidae [family] 299 Rein, 2015
+        Pseudochactidae [family] 6 Rein, 2015
+        Iuridae [family] 14 Rein, 2015
+        Hormuridae [family] 81 Rein, 2015
+        Heteroscorpionidae [family] 6 Rein, 2015
+        Hemiscorpiidae [family] 15 Rein, 2015
+        Euscorpiidae [family] 133 Rein, 2015
+        Chaerilidae [family] 40 Rein, 2015
+        Chactidae [family] 183 Rein, 2015
+        Caraboctonidae [family] 29 Rein, 2015
+        Buthidae [family] 1062 Rein, 2015
+        Bothriuridae [family] 150 Rein, 2015
+        Akravidae [family] 1 Rein, 2015
+        Vaejovidae [family] 198 Rein, 2015
+      Ixodida [order] 897 Zhang, 2011
         Argasidae [family]
         Ixodidae [family]
         Nuttalliellidae [family]
-      Palpigradi [order] 88 ssp, ref59
+      Palpigradi [order] 88 Zhang, 2011
         Eukoenenioidea [superfamily]
           Eukoeneniidae [family]
           Prokoeneniidae [family]
-      Schizomida [order] 273 ssp, ref59
+      Schizomida [order] 273 Zhang, 2011
         Hubbardioidea [superfamily]
           Hubbardiidae [family]
           Protoschizomidae [family]
       Uropygi [order]
         Thelyphonoidea [superfamily]
           Thelyphonidae [family]
-      Pseudoscorpiones [order] 3574 ssp, ref59
+      Pseudoscorpiones [order] 3574 Zhang, 2011
         Cheliferoidea [superfamily]
           Atemnidae [family]
           Cheliferidae [family]
@@ -2616,7 +2616,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Olpiidae [family]
         Sternophoroidea [superfamily]
           Sternophoridae [family]
-      Amblypygi [order] 172 ssp, ref59
+      Amblypygi [order] 172 Zhang, 2011
         Charinoidea [superfamily]
           Charinidae [family]
         Charontoidea [superfamily]
@@ -2625,7 +2625,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Phrynichidae [family]
           Phrynidae [family]
         Paracharontidae [family]
-      Trombidiformes [order] 25821 ssp, ref59
+      Trombidiformes [order] 25821 Zhang, 2011
         Unionicolidae [family]
         Torrenticolidae [family]
         Thyasidae [family]
@@ -2711,7 +2711,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Tuckerellidae [family]
         Tydeidae [family]
         Zelandothyadidae [family]
-      Sarcoptiformes [order] 16412 ssp, ref59
+      Sarcoptiformes [order] 16412 Zhang, 2011
         Zetorchestoidea [superfamily]
           Zetorchestidae [family]
         Zetomotrichoidea [superfamily]
@@ -2935,12 +2935,12 @@ Animalia [kingdom] 1552319 ssp, ref59
         Acaronychoidea [superfamily]
           Acaronychidae [family]
         Liodidae [family]
-      Opilioacarida [order] 37 ssp, ref59
+      Opilioacarida [order] 37 Zhang, 2011
         Opilioacaridae [family]
-      Ricinulei [order] 77 ssp, ref59
+      Ricinulei [order] 77 Zhang, 2011
         Ricinoidoidea [superfamily]
           Ricinoididae [family]
-      Mesostigmata [order] 11424 ssp, ref59
+      Mesostigmata [order] 11424 Zhang, 2011
         Rhodacaroidea [superfamily]
           Ologamasidae [family]
           Rhodacaridae [family]
@@ -2992,9 +2992,9 @@ Animalia [kingdom] 1552319 ssp, ref59
         Suidasiidae [family]
         Turbinoptidae [family]
         Winterschmidtiidae [family]
-      Holothyrida [order] 27 ssp, ref59
+      Holothyrida [order] 27 Zhang, 2011
         Allothyridae [family]
-      Opiliones [order] 6571 ssp, ref59
+      Opiliones [order] 6571 Zhang, 2011
         Gonyleptoidea [superfamily]
           Cosmetidae [family]
         Caddoidea [superfamily]
@@ -3035,7 +3035,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Triaenonychoidea [superfamily]
           Synthetonychiidae [family]
           Triaenonychidae [family]
-      Solifugae [order] 1116 ssp, ref59
+      Solifugae [order] 1116 Zhang, 2011
         Solpugidae [family]
         Rhagodidae [family]
         Mummuciidae [family]
@@ -3048,8 +3048,8 @@ Animalia [kingdom] 1552319 ssp, ref59
         Daesiidae [family]
         Ceromidae [family]
         Ammotrechidae [family]
-    Insecta [class] 1013825 ssp, ref59
-      Coleoptera [order] 392415 ssp, ref59
+    Insecta [class] 1013825 Zhang, 2011
+      Coleoptera [order] 392415 Zhang, 2011
         Cerambycidae [family]
         Scarabaeoidea [superfamily]
           Rutelidae [family]
@@ -3084,21 +3084,21 @@ Animalia [kingdom] 1552319 ssp, ref59
         Buprestoidea [superfamily]
           Schizopodidae [family]
           Buprestidae [family]
-        Curculionoidea [superfamily] 63400 ssp, ref45
+        Curculionoidea [superfamily] 63400 Alonso-Zarazaga, 2016
           Ulyanidae [family]
           Obrieniidae [family]
-          Nemonychidae [family] 70 ssp, ref45
+          Nemonychidae [family] 70 Alonso-Zarazaga, 2016
           Ithyceridae [family]
           Eurhynchidae [family]
           Eobelidae [family]
-          Dryophthoridae [family] 1200 ssp, ref45
-          Curculionidae [family] 50000 ssp, ref45
-          Brentidae [family] 4100 ssp, ref45
+          Dryophthoridae [family] 1200 Alonso-Zarazaga, 2016
+          Curculionidae [family] 50000 Alonso-Zarazaga, 2016
+          Brentidae [family] 4100 Alonso-Zarazaga, 2016
           Caridae [family]
-          Brachyceridae [family] 1200 ssp, ref45
-          Belidae [family] 400 ssp, ref45
-          Attelabidae [family] 2500 ssp, ref45
-          Anthribidae [family] 3900 ssp, ref45
+          Brachyceridae [family] 1200 Alonso-Zarazaga, 2016
+          Belidae [family] 400 Alonso-Zarazaga, 2016
+          Attelabidae [family] 2500 Alonso-Zarazaga, 2016
+          Anthribidae [family] 3900 Alonso-Zarazaga, 2016
           Not assigned [family]
         Cucujoidea [superfamily]
           Sphindidae [family]
@@ -3247,7 +3247,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Cupedidae [family]
         Crowsoniellidae [family]
         Amphizoidae [family]
-      Diptera [order] 160591 ssp, ref59
+      Diptera [order] 160591 Zhang, 2011
         Brachystomatidae [family]
         Braulidae [family]
         Calliphoridae [family]
@@ -3408,7 +3408,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Xenasteiidae [family]
         Xylomyidae [family]
         Xylophagidae [family]
-      Hemiptera [order] 104165 ssp, ref59
+      Hemiptera [order] 104165 Zhang, 2011
         Tajmyraphidoidea [superfamily]
           Not assigned [family]
           Tajmyraphididae [family]
@@ -3425,7 +3425,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Coreidae [family]
           Hyocephalidae [family]
           Alydidae [family]
-        Fulgoroidea [superfamily] 13500 ssp, ref49
+        Fulgoroidea [superfamily] 13500 Bourgoin, 2016
           Qiyangiricaniidae [family]
           Weiwoboidae [family]
           Perforissidae [family]
@@ -3569,7 +3569,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Homotomidae [family]
           Liadopsyllidae [family]
           Aphalaridae [family]
-          Phacopteronidae [family] 50 ssp, ref46
+          Phacopteronidae [family] 50 Ouvrard, 2015
           Carsidaridae [family]
           Liviidae [family]
           Psyllidae [family]
@@ -3634,20 +3634,20 @@ Animalia [kingdom] 1552319 ssp, ref59
           Naibiidae [family]
           Sinojuraphididae [family]
         Not assigned [family]
-      Strepsiptera [order] 617 ssp, ref16
-        Elenchidae [family] 28 ssp, ref16
+      Strepsiptera [order] 617 Kathirithamby, 2015
+        Elenchidae [family] 28 Kathirithamby, 2015
         Cretostylopidae [family]
         Protoxenidae [family]
-        Lychnocolacidae [family] 23 ssp, ref16
-        Bohartillidae [family] 1 ssp, ref16
-        Xeninae [family] 117 ssp, ref16
-        Halictophagidae [family] 132 ssp, ref16
-        Stylopidae [family] 169 ssp, ref16
-        Myrmecolacidae [family] 84 ssp, ref16
-        Corioxenidae [family] 46 ssp, ref16
-        Bahiaxenidae [family] 1 ssp, ref16
-        Mengenillidae [family] 16 ssp, ref16
-      Phasmida [order] 3100 ssp, ref59
+        Lychnocolacidae [family] 23 Kathirithamby, 2015
+        Bohartillidae [family] 1 Kathirithamby, 2015
+        Xeninae [family] 117 Kathirithamby, 2015
+        Halictophagidae [family] 132 Kathirithamby, 2015
+        Stylopidae [family] 169 Kathirithamby, 2015
+        Myrmecolacidae [family] 84 Kathirithamby, 2015
+        Corioxenidae [family] 46 Kathirithamby, 2015
+        Bahiaxenidae [family] 1 Kathirithamby, 2015
+        Mengenillidae [family] 16 Kathirithamby, 2015
+      Phasmida [order] 3100 Zhang, 2011
         Agathemeridae [family]
         Timematidae [family]
         Phyllioidea [superfamily]
@@ -3665,7 +3665,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Damasippoididae [family]
           Aschiphasmatidae [family]
         Diapheromeridae [family]
-      Blattodea [order] 5710 ssp, ref48
+      Blattodea [order] 5710 Zhang, 2011
         Blattoidea [superfamily]
           Lamproblattidae [family]
           Tryonicidae [family]
@@ -3677,7 +3677,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Blaberoidea [superfamily]
           Ectobiidae [family]
           Blaberidae [family]
-      Orthoptera [order] 24481 ssp, ref59
+      Orthoptera [order] 24481 Zhang, 2011
         Not assigned [family]
         Paratitanidae [family]
         Tcholmanvissioidea [superfamily]
@@ -3790,7 +3790,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Tridactylidae [family]
           Ripipterygidae [family]
           Cylindrachetidae [family]
-      Hymenoptera [order] 155517 ssp, ref59
+      Hymenoptera [order] 155517 Zhang, 2011
         Chalcidoidea [superfamily]
           Signiphoridae [family]
           Rotoitidae [family]
@@ -3887,7 +3887,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Pergidae [family]
         Proctotrupidae [family]
         Xiphydriidae [family]
-      Lepidoptera [order] 158570 ssp, ref59
+      Lepidoptera [order] 158570 Zhang, 2011
         Gracillarioidea [superfamily]
           Gracillariidae [family]
           Bucculatricidae [family]
@@ -3924,9 +3924,9 @@ Animalia [kingdom] 1552319 ssp, ref59
           Eriocraniidae [family]
         Tischerioidea [superfamily]
           Tischeriidae [family]
-        Nepticuloidea [superfamily] 1054 ssp, ref24
-          Opostegidae [family] 192 ssp, ref24
-          Nepticulidae [family] 862 ssp, ref24
+        Nepticuloidea [superfamily] 1054 Nieukerken, 2016
+          Opostegidae [family] 192 Nieukerken, 2016
+          Nepticulidae [family] 862 Nieukerken, 2016
         Palaephatoidea [superfamily]
           Palaephatidae [family]
         Yponomeutoidea [superfamily]
@@ -4063,7 +4063,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Lophocoronidae [family]
         Hedyloidea [superfamily]
           Hedylidae [family]
-      Odonata [order] 6650 ssp, ref59
+      Odonata [order] 6650 Zhang, 2011
         Pseudolestidae [family]
         Protoneuridae [family]
         Polythoridae [family]
@@ -4093,7 +4093,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Pseudostigmatidae [family]
         Synlestidae [family]
         Synthemistidae [family]
-      Mantodea [order] 2447 ssp, ref59
+      Mantodea [order] 2447 Zhang, 2011
         Baissomantidae [family]
         Chaeteessidae [family]
         Amorphoscelidae [family]
@@ -4113,37 +4113,37 @@ Animalia [kingdom] 1552319 ssp, ref59
         Cretomantidae [family]
         Eremiaphilidae [family]
         Empusidae [family]
-      Neuroptera [order] 5937 ssp, ref59
-        Dilaridae [family] 74 ssp, ref21
-        Coniopterygidae [family] 571 ssp, ref21
-        Chrysopidae [family] 1413 ssp, ref21
+      Neuroptera [order] 5937 Zhang, 2011
+        Dilaridae [family] 74 Oswald, 2015
+        Coniopterygidae [family] 571 Oswald, 2015
+        Chrysopidae [family] 1413 Oswald, 2015
         Brongniartiellidae [family]
-        Berothidae [family] 123 ssp, ref21
+        Berothidae [family] 123 Oswald, 2015
         Babinskaiidae [family]
         Ascalochrysidae [family]
-        Ascalaphidae [family] 431 ssp, ref21
+        Ascalaphidae [family] 431 Oswald, 2015
         Archeosmylidae [family]
         Aetheogrammatidae [family]
         Dipteromantispidae [family]
         Epigambriidae [family]
         Grammolingiidae [family]
-        Hemerobiidae [family] 590 ssp, ref21
-        Ithonidae [family] 40 ssp, ref21
+        Hemerobiidae [family] 590 Oswald, 2015
+        Ithonidae [family] 40 Oswald, 2015
         Kalligrammatidae [family]
-        Mantispidae [family] 399 ssp, ref21
+        Mantispidae [family] 399 Oswald, 2015
         Mesoberothidae [family]
         Mesochrysopidae [family]
         Mesopolystoechotidae [family]
-        Myrmeleontidae [family] 1657 ssp, ref21
-        Nemopteridae [family] 146 ssp, ref21
-        Nevrorthidae [family] 16 ssp, ref21
+        Myrmeleontidae [family] 1657 Oswald, 2015
+        Nemopteridae [family] 146 Oswald, 2015
+        Nevrorthidae [family] 16 Oswald, 2015
         Not assigned [family]
         Chrysopoidea [superfamily]
           Not assigned [family]
         Psychopsoidea [superfamily]
           Not assigned [family]
-        Nymphidae [family] 35 ssp, ref21
-        Osmylidae [family] 212 ssp, ref21
+        Nymphidae [family] 35 Oswald, 2015
+        Osmylidae [family] 212 Oswald, 2015
         Osmylitidae [family]
         Osmylopsychopidae [family]
         Palaeoleontidae [family]
@@ -4151,31 +4151,31 @@ Animalia [kingdom] 1552319 ssp, ref59
         Parakseneuridae [family]
         Permithonidae [family]
         Prohemerobiidae [family]
-        Psychopsidae [family] 26 ssp, ref21
+        Psychopsidae [family] 26 Oswald, 2015
         Saucrosmylidae [family]
-        Sisyridae [family] 70 ssp, ref21
+        Sisyridae [family] 70 Oswald, 2015
         Solenoptilidae [family]
-      Megaloptera [order] 380 ssp, ref59
+      Megaloptera [order] 380 Zhang, 2011
         Corydasialidae [family]
-        Corydalidae [family] 295 ssp, ref21
+        Corydalidae [family] 295 Oswald, 2015
         Nanosialidae [family]
         Not assigned [family]
         Parasialidae [family]
-        Sialidae [family] 78 ssp, ref21
-      Raphidioptera [order] 271 ssp, ref59
+        Sialidae [family] 78 Oswald, 2015
+      Raphidioptera [order] 271 Zhang, 2011
         Chrysoraphidiidae [family]
         Baissopteridae [family]
-        Inocelliidae [family] 42 ssp, ref21
+        Inocelliidae [family] 42 Oswald, 2015
         Juroraphidiidae [family]
         Mesoraphidiidae [family]
         Metaraphidiidae [family]
         Not assigned [family]
         Priscaenigmatoidea [superfamily]
           Priscaenigmatidae [family]
-        Raphidiidae [family] 206 ssp, ref21
+        Raphidiidae [family] 206 Oswald, 2015
         Raphidioidea [superfamily]
           Raphidiidae [family]
-      Dermaptera [order] 1982 ssp, ref59
+      Dermaptera [order] 1982 Zhang, 2011
         Karschielloidea [superfamily]
           Karschiellidae [family]
         Protodiplatyoidea [superfamily]
@@ -4201,7 +4201,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Pygidicranidae [family]
         Anisolabidoidea [superfamily]
           Anisolabididae [family]
-      Siphonaptera [order] 2086 ssp, ref59
+      Siphonaptera [order] 2086 Zhang, 2011
         Ceratophylloidea [superfamily]
           Xiphiopsyllidae [family]
           Leptopsyllidae [family]
@@ -4230,7 +4230,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Ancistropsyllidae [family]
         Vermipsylloidea [superfamily]
           Vermipsyllidae [family]
-      Plecoptera [order] 3833 ssp, ref59
+      Plecoptera [order] 3833 Zhang, 2011
         Pteronarcyoidea [superfamily]
           Styloperlidae [family]
           Peltoperlidae [family]
@@ -4330,11 +4330,11 @@ Animalia [kingdom] 1552319 ssp, ref59
         Psyllipsocidae [family]
         Prionoglarididae [family]
         Psocidae [family]
-      Zygentoma [order] 574 ssp, ref59
+      Zygentoma [order] 574 Zhang, 2011
         Nicoletiidae [family]
         Lepismatidae [family]
         Lepidotrichidae [family]
-      Trichoptera [order] 15233 ssp, ref59
+      Trichoptera [order] 15233 Zhang, 2011
         Hydropsychoidea [superfamily]
           Xiphocentronidae [family]
           Psychomyiidae [family]
@@ -4391,7 +4391,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Hydroptilidae [family]
         Glossosomatoidea [superfamily]
           Glossosomatidae [family]
-      Thysanoptera [order] 6157 ssp, ref11
+      Thysanoptera [order] 6157 THRIPS
         Thripidae [family]
         Phlaeothripidae [family]
         Merothripidae [family]
@@ -4400,7 +4400,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Fauriellidae [family]
         Aeolothripidae [family]
         Adiheterothripidae [family]
-      Phthiraptera [order] 5136 ssp, ref59
+      Phthiraptera [order] 5136 Zhang, 2011
         Ratemiidae [family]
         Pthiridae [family]
         Polyplacidae [family]
@@ -4414,7 +4414,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Hamophthiriidae [family]
         Haematopinidae [family]
         Enderleinellidae [family]
-      Mecoptera [order] 769 ssp, ref59
+      Mecoptera [order] 769 Zhang, 2011
         Apteropanorpidae [family]
         Panorpodidae [family]
         Bittacidae [family]
@@ -4424,15 +4424,15 @@ Animalia [kingdom] 1552319 ssp, ref59
         Nannochoristidae [family]
         Eomeropidae [family]
         Choristidae [family]
-      Mantophasmatodea [order] 23 ssp, ref59
+      Mantophasmatodea [order] 23 Zhang, 2011
         Ensiferophasmatidae [family]
         Mantophasmatidae [family]
-      Isoptera [order] 2933 ssp, ref54
+      Isoptera [order] 2933 Krishna, 2013
         Termopsidae [family]
         Termitidae [family]
         Rhinotermitidae [family]
         Kalotermitidae [family]
-      Embioptera [order] 464 ssp, ref59
+      Embioptera [order] 464 Zhang, 2011
         Alexarasniidae [family]
         Archembiidae [family]
         Andesembiidae [family]
@@ -4450,10 +4450,10 @@ Animalia [kingdom] 1552319 ssp, ref59
         Australembiidae [family]
         Anisembiidae [family]
         Paedembiidae [family]
-      Archaeognatha [order] 514 ssp, ref59
+      Archaeognatha [order] 514 Zhang, 2011
         Meinertellidae [family]
         Machilidae [family]
-      Ephemeroptera [order] 3281 ssp, ref59
+      Ephemeroptera [order] 3281 Zhang, 2011
         Acanthametropodidae [family]
         Ameletidae [family]
         Ameletopsidae [family]
@@ -4556,11 +4556,11 @@ Animalia [kingdom] 1552319 ssp, ref59
         Not assigned [family]
         Uralotermitidae [family]
         Euremiscidae [family]
-      Zoraptera [order] 45 ssp, ref59
+      Zoraptera [order] 45 Zhang, 2011
         Zorotypidae [family]
       Not assigned [order]
         Rafaelidae [family]
-    Pauropoda [class] 835 ssp, ref59
+    Pauropoda [class] 835 Zhang, 2011
       Tetramerocerata [order]
         Sphaeropauropodidae [family]
         Polypauropodidae [family]
@@ -4572,7 +4572,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Brachypauropodidae [family]
       Hexamerocerata [order]
         Millotauropodidae [family]
-    Branchiopoda [class] 900 ssp, ref7
+    Branchiopoda [class] 900 Brusca, 2003
       Diplostraca [order]
         Pseudopeniliidae [family]
         Polyphemidae [family]
@@ -4606,7 +4606,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Branchipodidae [family]
         Branchinectidae [family]
         Artemiidae [family]
-    Chilopoda [class] 3100 ssp, ref59
+    Chilopoda [class] 3100 Zhang, 2011
       Lithobiomorpha [order]
         Henicopidae [family]
         Lithobiidae [family]
@@ -4638,7 +4638,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Tampiyidae [family]
       Craterostigmomorpha [order]
         Craterostigmidae [family]
-    Pycnogonida [class] 1322 ssp, ref59
+    Pycnogonida [class] 1322 Zhang, 2011
       Pantopoda [order]
         Nymphonoidea [superfamily]
           Pallenopsidae [family]
@@ -4667,7 +4667,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Haliestidae [family]
       Not assigned [order]
         Not assigned [family]
-    Ostracoda [class] 13000 ssp, ref7
+    Ostracoda [class] 13000 Brusca, 2003
       Not assigned [order]
         Monotiopleuridae [family]
         Saipanettidae [family]
@@ -4804,7 +4804,7 @@ Animalia [kingdom] 1552319 ssp, ref59
       Platycopina [order]
         Cytherelloidea [superfamily]
           Cytherellidae [family]
-    Maxillopoda [class] 26000 ssp, ref7
+    Maxillopoda [class] 26000 Brusca, 2003
       Siphonostomatoida [order]
         Trebiidae [family]
         Tanypleuridae [family]
@@ -5052,12 +5052,12 @@ Animalia [kingdom] 1552319 ssp, ref59
         Chthamalophilidae [family]
       Scalpelliformes [order]
         Pollicipidae [family]
-    Symphyla [class] 197 ssp, ref59
+    Symphyla [class] 197 Zhang, 2011
       Not assigned [order]
         Scolopendrellidae [family]
         Scutigerellidae [family]
         Not assigned [family]
-    Diplopoda [class] 7753 ssp, ref59
+    Diplopoda [class] 7753 Zhang, 2011
       Stemmiulida [order]
         Stemmiulidae [family]
       Spirostreptida [order]
@@ -5239,8 +5239,8 @@ Animalia [kingdom] 1552319 ssp, ref59
         Onceroxenidae [family]
         Basipodellidae [family]
         Doryphallophoridae [family]
-    Entognatha [class] 9734 ssp, ref34
-      Protura [order] 804 ssp, ref59
+    Entognatha [class] 9734 Zhang, 2011
+      Protura [order] 804 Zhang, 2011
         Sinentomidae [family]
         Protentomidae [family]
         Hesperentomidae [family]
@@ -5248,7 +5248,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Eosentomidae [family]
         Antelientomidae [family]
         Acerentomidae [family]
-      Collembola [order] 8130 ssp, ref59
+      Collembola [order] 8130 Zhang, 2011
         Neelidae [family]
         Actaletoidea [superfamily]
           Actaletidae [family]
@@ -5284,7 +5284,7 @@ Animalia [kingdom] 1552319 ssp, ref59
           Poduridae [family]
         Sminthurididoidea [superfamily]
           Sminthurididae [family]
-      Diplura [order] 800 ssp, ref59
+      Diplura [order] 800 Zhang, 2011
         Projapygoidea [superfamily]
           Anajapygidae [family]
           Projapygidae [family]
@@ -5298,12 +5298,12 @@ Animalia [kingdom] 1552319 ssp, ref59
     Not assigned [class]
       Mystacocaridida [order]
         Derocheilocarididae [family]
-    Cephalocarida [class] 10 ssp, ref7
+    Cephalocarida [class] 10 Brusca, 2003
       Brachypoda [order]
         Hutchinsoniellidae [family]
-    Merostomata [class] 5 ssp, ref7
+    Merostomata [class] 5 Brusca, 2003
       Xiphosurida [order]
-        Limulidae [family] 4 ssp, ref10
+        Limulidae [family] 4 Sekiguchi, 2009
     Trilobita [class]
       Agnostida [order]
         Clavagnostidae [family]
@@ -5490,7 +5490,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Not assigned [family]
       Olenellida [order]
         Not assigned [family]
-  Xenacoelomorpha [phylum] 395 ssp, ref51
+  Xenacoelomorpha [phylum] 395 Zhang, 2011
     Not assigned [class]
       Not assigned [order]
         Xenoturbellidae [family]
@@ -5515,7 +5515,7 @@ Animalia [kingdom] 1552319 ssp, ref59
       Nemertodermatida [order]
         Nemertodermatidae [family]
         Ascopariidae [family]
-  Platyhelminthes [phylum] 29285 ssp, ref59
+  Platyhelminthes [phylum] 29285 Zhang, 2011
     Rhabditophora [class]
       Rhabdocoela [order]
         Not assigned [family]
@@ -5900,7 +5900,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Udonellidae [family]
       Polystomatidea [order]
         Polystomatidae [family]
-  Annelida [phylum] 17210 ssp, ref59
+  Annelida [phylum] 17210 Zhang, 2011
     Clitellata [class]
       Crassiclitellata [order]
         Glossoscolecidae [family]
@@ -6046,7 +6046,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Alvinellidae [family]
         Acrocirridae [family]
         Ampharetidae [family]
-  Echinodermata [phylum] 7509 ssp, ref59
+  Echinodermata [phylum] 7509 Zhang, 2011
     Crinoidea [class]
       Comatulida [order]
         Tropiometridae [family]
@@ -6357,11 +6357,11 @@ Animalia [kingdom] 1552319 ssp, ref59
         Benthopectinidae [family]
       Spinulosida [order]
         Echinasteridae [family]
-  Cycliophora [phylum] 2 ssp, ref59
+  Cycliophora [phylum] 2 Zhang, 2011
     Eucycliophora [class]
       Symbiida [order]
         Symbiidae [family]
-  Mollusca [phylum] 80000 ssp, ref8
+  Mollusca [phylum] 80000 MolluscaBase, 2016
     Gastropoda [class]
       Stylommatophora [order]
         Pupilloidea [superfamily]
@@ -7824,7 +7824,7 @@ Animalia [kingdom] 1552319 ssp, ref59
     Monoplacophora [class]
       Tryblidiida [order]
         Neopilinidae [family]
-  Chaetognatha [phylum] 179 ssp, ref59
+  Chaetognatha [phylum] 179 Zhang, 2011
     Sagittoidea [class]
       Aphragmophora [order]
         Sagittidae [family]
@@ -7837,7 +7837,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Eukrohniidae [family]
         Heterokrohniidae [family]
         Krohnittellidae [family]
-  Porifera [phylum] 8346 ssp, ref59
+  Porifera [phylum] 8346 Zhang, 2011
     Demospongiae [class]
       Axinellida [order]
         Raspailiidae [family]
@@ -8028,7 +8028,7 @@ Animalia [kingdom] 1552319 ssp, ref59
       Homosclerophorida [order]
         Oscarellidae [family]
         Plakinidae [family]
-  Cnidaria [phylum] 10105 ssp, ref59
+  Cnidaria [phylum] 10105 Zhang, 2011
     Scyphozoa [class]
       Rhizostomeae [order]
         Cassiopeidae [family]
@@ -8390,7 +8390,7 @@ Animalia [kingdom] 1552319 ssp, ref59
       Actinulida [order]
         Otohydridae [family]
         Halammohydridae [family]
-  Nemertea [phylum] 1200 ssp, ref59
+  Nemertea [phylum] 1200 Zhang, 2011
     Enopla [class]
       Polystilifera [order]
         Pachynemertidae [family]
@@ -8448,7 +8448,7 @@ Animalia [kingdom] 1552319 ssp, ref59
       Not assigned [order]
         Not assigned [family]
         Arhynchonemertidae [family]
-  Gnathostomulida [phylum] 109 ssp, ref59
+  Gnathostomulida [phylum] 109 Zhang, 2011
     Not assigned [class]
       Bursovaginoidea [order]
         Problognathiidae [family]
@@ -8464,11 +8464,11 @@ Animalia [kingdom] 1552319 ssp, ref59
       Filospermoidea [order]
         Pterognathiidae [family]
         Haplognathiidae [family]
-  Phoronida [phylum] 10 ssp, ref59
+  Phoronida [phylum] 10 Zhang, 2011
     Not assigned [class]
       Not assigned [order]
         Not assigned [family]
-  Bryozoa [phylum] 5486 ssp, ref59
+  Bryozoa [phylum] 5486 Zhang, 2011
     Gymnolaemata [class]
       Ctenostomatida [order]
         Walkerioidea [superfamily]
@@ -8758,7 +8758,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Cristatellidae [family]
         Plumatellidae [family]
         Lophopodidae [family]
-  Gastrotricha [phylum] 790 ssp, ref59
+  Gastrotricha [phylum] 790 Zhang, 2011
     Not assigned [class]
       Chaetonotida [order]
         Proichthydiidae [family]
@@ -8781,18 +8781,18 @@ Animalia [kingdom] 1552319 ssp, ref59
         Macrodasyidae [family]
         Cephalodasyidae [family]
         Thaumastodermatidae [family]
-  Dicyemida [phylum] 123 ssp, ref51
+  Dicyemida [phylum] 123 Zhang, 2011
     Rhombozoa [class]
       Not assigned [order]
         Dicyemidae [family]
         Conocyemidae [family]
         Kantharellidae [family]
-  Orthonectida [phylum] 20 ssp, ref7
+  Orthonectida [phylum] 20 Brusca, 2003
     Not assigned [class]
       Not assigned [order]
         Rhopaluridae [family]
         Pelmatosphaeridae [family]
-  Hemichordata [phylum] 120 ssp, ref59
+  Hemichordata [phylum] 120 Zhang, 2011
     Pterobranchia [class]
       Not assigned [order]
         Cephalodiscidae [family]
@@ -8805,7 +8805,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Spengelidae [family]
         Ptychoderidae [family]
         Harrimaniidae [family]
-  Sipuncula [phylum] 320 ssp, ref7
+  Sipuncula [phylum] 320 Brusca, 2003
     Sipunculidea [class]
       Golfingiiformes [order]
         Themistidae [family]
@@ -8818,7 +8818,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Phascolosomatidae [family]
       Aspidosiphoniformes [order]
         Aspidosiphonidae [family]
-  Acanthocephala [phylum] 1192 ssp, ref59
+  Acanthocephala [phylum] 1192 Zhang, 2011
     Palaeacanthocephala [class]
       Echinorhynchida [order]
         Sauracanthorhynchidae [family]
@@ -8859,14 +8859,14 @@ Animalia [kingdom] 1552319 ssp, ref59
     Polyacanthocephala [class]
       Polyacanthorhynchida [order]
         Polyacanthorhynchidae [family]
-  Entoprocta [phylum] 169 ssp, ref59
+  Entoprocta [phylum] 169 Zhang, 2011
     Not assigned [class]
       Not assigned [order]
         Barentsiidae [family]
         Loxokalypodidae [family]
         Loxosomatidae [family]
         Pedicellinidae [family]
-  Myxozoa [phylum] 2402 ssp, ref59
+  Myxozoa [phylum] 2402 Zhang, 2011
     Myxosporea [class]
       Bivalvulida [order]
         Alatasporidae [family]
@@ -8885,7 +8885,7 @@ Animalia [kingdom] 1552319 ssp, ref59
       Multivalvulida [order]
         Kudoidae [family]
         Trilosporidae [family]
-  Nematoda [phylum] 24773 ssp, ref59
+  Nematoda [phylum] 24773 Zhang, 2011
     Adenophorea [class]
       Araeolaimida [order]
         Aulolaimidae [family]
@@ -9082,7 +9082,7 @@ Animalia [kingdom] 1552319 ssp, ref59
         Pharyngodonidae [family]
         Rhigonematidae [family]
         Thelastomatidae [family]
-  Nematomorpha [phylum] 351 ssp, ref59
+  Nematomorpha [phylum] 351 Zhang, 2011
     Nectonematoida [class]
       Nectonematoidea [order]
         Nectonemidae [family]
@@ -9090,12 +9090,12 @@ Animalia [kingdom] 1552319 ssp, ref59
       Gordioidea [order]
         Chordodidae [family]
         Gordiidae [family]
-  Onychophora [phylum] 182 ssp, ref59
+  Onychophora [phylum] 182 Zhang, 2011
     Not assigned [class]
       Not assigned [order]
         Peripatidae [family]
         Peripatopsidae [family]
-  Tardigrada [phylum] 1157 ssp, ref59
+  Tardigrada [phylum] 1157 Zhang, 2011
     Eutardigrada [class]
       Apochela [order]
         Milnesiidae [family]
@@ -9124,7 +9124,7 @@ Animalia [kingdom] 1552319 ssp, ref59
     Mesotardigrada [class]
       Thermozodia [order]
         Thermozodiidae [family]
-  Brachiopoda [phylum] 443 ssp, ref59
+  Brachiopoda [phylum] 443 Zhang, 2011
     Rhynchonellata [class]
       Terebratulida [order]
         Dyscolioidea [superfamily]
@@ -9675,15 +9675,15 @@ Animalia [kingdom] 1552319 ssp, ref59
         Not assigned [family]
       Inarticulata [order]
         Not assigned [family]
-  Placozoa [phylum] 1 ssp, ref59
+  Placozoa [phylum] 1 Zhang, 2011
     Not assigned [class]
       Not assigned [order]
         Not assigned [family]
-  Micrognathozoa [phylum] 1 ssp, ref59
+  Micrognathozoa [phylum] 1 Zhang, 2011
     Not assigned [class]
       Limnognathida [order]
         Limnognathiidae [family]
-  Rotifera [phylum] 1583 ssp, ref59
+  Rotifera [phylum] 1583 Zhang, 2011
     Eurotatoria [class]
       Flosculariaceae [order]
         Conochilidae [family]
@@ -9726,603 +9726,603 @@ Animalia [kingdom] 1552319 ssp, ref59
     Pararotatoria [class]
       Seisonacea [order]
         Seisonidae [family]
-Plantae [kingdom] 382000 ssp, ref12
-  Tracheophyta [phylum] 340000 ssp, ref38
-    Magnoliopsida [class] 246366 ssp, ref37
+Plantae [kingdom] 382000 Roskov, 2016
+  Tracheophyta [phylum] 340000 Govaerts, 2015
+    Magnoliopsida [class] 246366 Govaerts, 2015
       Fagales [order]
-        Nothofagaceae [family] 42 ssp, ref2
-        Casuarinaceae [family] 91 ssp, ref30
-        Fagaceae [family] 1093 ssp, ref2
-        Betulaceae [family] 200 ssp, ref2
-        Juglandaceae [family] 79 ssp, ref30
-        Myricaceae [family] 45 ssp, ref30
-        Ticodendraceae [family] 1 ssp, ref2
-      Ericales [order] 13240 ssp, ref30
-        Scytopetalaceae [family] 1 ssp, ref43
-        Napoleonaceae [family] 10 ssp, ref43
-        Sapotaceae [family] 1270 ssp, ref2
-        Lecythidaceae [family] 340 ssp, ref15
-        Ebenaceae [family] 755 ssp, ref2
-        Actinidiaceae [family] 400 ssp, ref30
-        Roridulaceae [family] 2 ssp, ref30
-        Cyrillaceae [family] 10 ssp, ref30
-        Ericaceae [family] 4400 ssp, ref30
-        Sarraceniaceae [family] 30 ssp, ref30
-        Primulaceae [family] 3050 ssp, ref30
-        Mitrastemonaceae [family] 2 ssp, ref30
-        Theaceae [family] 280 ssp, ref30
-        Symplocaceae [family] 370 ssp, ref30
-        Diapensiaceae [family] 15 ssp, ref30
-        Styracaceae [family] 155 ssp, ref30
-        Pentaphylacaceae [family] 470 ssp, ref30
-        Fouquieriaceae [family] 11 ssp, ref30
-        Sladeniaceae [family] 3 ssp, ref30
-        Polemoniaceae [family] 400 ssp, ref30
-        Tetrameristaceae [family] 3 ssp, ref30
-        Marcgraviaceae [family] 139 ssp, ref30
-        Balsaminaceae [family] 1000 ssp, ref30
-        Clethraceae [family] 77 ssp, ref2
-      Garryales [order] 26 ssp, ref30
+        Nothofagaceae [family] 42 WCSP, 2015
+        Casuarinaceae [family] 91 Hassler, 2015
+        Fagaceae [family] 1093 WCSP, 2015
+        Betulaceae [family] 200 WCSP, 2015
+        Juglandaceae [family] 79 Hassler, 2015
+        Myricaceae [family] 45 Hassler, 2015
+        Ticodendraceae [family] 1 WCSP, 2015
+      Ericales [order] 13240 Hassler, 2015
+        Scytopetalaceae [family] 1 LecyPages, 2006
+        Napoleonaceae [family] 10 LecyPages, 2006
+        Sapotaceae [family] 1270 WCSP, 2015
+        Lecythidaceae [family] 340 Hassler, 2015
+        Ebenaceae [family] 755 WCSP, 2015
+        Actinidiaceae [family] 400 Hassler, 2015
+        Roridulaceae [family] 2 Hassler, 2015
+        Cyrillaceae [family] 10 Hassler, 2015
+        Ericaceae [family] 4400 Hassler, 2015
+        Sarraceniaceae [family] 30 Hassler, 2015
+        Primulaceae [family] 3050 Hassler, 2015
+        Mitrastemonaceae [family] 2 Hassler, 2015
+        Theaceae [family] 280 Hassler, 2015
+        Symplocaceae [family] 370 Hassler, 2015
+        Diapensiaceae [family] 15 Hassler, 2015
+        Styracaceae [family] 155 Hassler, 2015
+        Pentaphylacaceae [family] 470 Hassler, 2015
+        Fouquieriaceae [family] 11 Hassler, 2015
+        Sladeniaceae [family] 3 Hassler, 2015
+        Polemoniaceae [family] 400 Hassler, 2015
+        Tetrameristaceae [family] 3 Hassler, 2015
+        Marcgraviaceae [family] 139 Hassler, 2015
+        Balsaminaceae [family] 1000 Hassler, 2015
+        Clethraceae [family] 77 WCSP, 2015
+      Garryales [order] 26 Hassler, 2015
         Eucommiaceae [family]
-        Garryaceae [family] 25 ssp, ref2
-      Saxifragales [order] 2579 ssp, ref30
-        Penthoraceae [family] 2 ssp, ref30
-        Cynomoriaceae [family] 1 ssp, ref30
-        Saxifragaceae [family] 750 ssp, ref30
-        Iteaceae [family] 24 ssp, ref30
-        Grossulariaceae [family] 190 ssp, ref30
-        Tetracarpaeaceae [family] 1 ssp, ref30
-        Haloragaceae [family] 160 ssp, ref30
-        Aphanopetalaceae [family] 2 ssp, ref30
-        Cercidiphyllaceae [family] 2 ssp, ref30
-        Daphniphyllaceae [family] 25 ssp, ref30
-        Crassulaceae [family] 1450 ssp, ref30
-        Hamamelidaceae [family] 100 ssp, ref30
-        Altingiaceae [family] 15 ssp, ref30
-        Peridiscaceae [family] 10 ssp, ref30
-        Paeoniaceae [family] 30 ssp, ref30
-      Malpighiales [order] 18494 ssp, ref30
-        Chrysobalanaceae [family] 520 ssp, ref30
-        Irvingiaceae [family] 10 ssp, ref30
-        Lacistemataceae [family] 16 ssp, ref30
-        Lophopyxidaceae [family] 1 ssp, ref30
-        Elatinaceae [family] 46 ssp, ref30
-        Dichapetalaceae [family] 200 ssp, ref30
-        Trigoniaceae [family] 30 ssp, ref30
-        Malpighiaceae [family] 1400 ssp, ref30
-        Balanopaceae [family] 9 ssp, ref30
-        Rhizophoraceae [family] 140 ssp, ref30
-        Euphroniaceae [family] 3 ssp, ref30
-        Ctenolophonaceae [family] 2 ssp, ref30
-        Erythroxylaceae [family] 250 ssp, ref30
+        Garryaceae [family] 25 WCSP, 2015
+      Saxifragales [order] 2579 Hassler, 2015
+        Penthoraceae [family] 2 Hassler, 2015
+        Cynomoriaceae [family] 1 Hassler, 2015
+        Saxifragaceae [family] 750 Hassler, 2015
+        Iteaceae [family] 24 Hassler, 2015
+        Grossulariaceae [family] 190 Hassler, 2015
+        Tetracarpaeaceae [family] 1 Hassler, 2015
+        Haloragaceae [family] 160 Hassler, 2015
+        Aphanopetalaceae [family] 2 Hassler, 2015
+        Cercidiphyllaceae [family] 2 Hassler, 2015
+        Daphniphyllaceae [family] 25 Hassler, 2015
+        Crassulaceae [family] 1450 Hassler, 2015
+        Hamamelidaceae [family] 100 Hassler, 2015
+        Altingiaceae [family] 15 Hassler, 2015
+        Peridiscaceae [family] 10 Hassler, 2015
+        Paeoniaceae [family] 30 Hassler, 2015
+      Malpighiales [order] 18494 Hassler, 2015
+        Chrysobalanaceae [family] 520 Hassler, 2015
+        Irvingiaceae [family] 10 Hassler, 2015
+        Lacistemataceae [family] 16 Hassler, 2015
+        Lophopyxidaceae [family] 1 Hassler, 2015
+        Elatinaceae [family] 46 Hassler, 2015
+        Dichapetalaceae [family] 200 Hassler, 2015
+        Trigoniaceae [family] 30 Hassler, 2015
+        Malpighiaceae [family] 1400 Hassler, 2015
+        Balanopaceae [family] 9 Hassler, 2015
+        Rhizophoraceae [family] 140 Hassler, 2015
+        Euphroniaceae [family] 3 Hassler, 2015
+        Ctenolophonaceae [family] 2 Hassler, 2015
+        Erythroxylaceae [family] 250 Hassler, 2015
         Medusagynaceae [family]
         Quiinaceae [family]
-        Ochnaceae [family] 520 ssp, ref30
-        Clusiaceae [family] 820 ssp, ref30
-        Bonnetiaceae [family] 35 ssp, ref30
-        Hypericaceae [family] 580 ssp, ref30
-        Podostemaceae [family] 320 ssp, ref30
-        Calophyllaceae [family] 400 ssp, ref30
-        Humiriaceae [family] 60 ssp, ref30
-        Achariaceae [family] 150 ssp, ref30
-        Goupiaceae [family] 1 ssp, ref30
+        Ochnaceae [family] 520 Hassler, 2015
+        Clusiaceae [family] 820 Hassler, 2015
+        Bonnetiaceae [family] 35 Hassler, 2015
+        Hypericaceae [family] 580 Hassler, 2015
+        Podostemaceae [family] 320 Hassler, 2015
+        Calophyllaceae [family] 400 Hassler, 2015
+        Humiriaceae [family] 60 Hassler, 2015
+        Achariaceae [family] 150 Hassler, 2015
+        Goupiaceae [family] 1 Hassler, 2015
         Malesherbiaceae [family]
-        Violaceae [family] 1000 ssp, ref30
-        Caryocaraceae [family] 26 ssp, ref2
-        Centroplacaceae [family] 1 ssp, ref2
-        Euphorbiaceae [family] 6407 ssp, ref2
-        Pandaceae [family] 17 ssp, ref2
-        Phyllanthaceae [family] 2052 ssp, ref2
-        Picrodendraceae [family] 96 ssp, ref2
-        Putranjivaceae [family] 215 ssp, ref2
-        Passifloraceae [family] 730 ssp, ref30
-        Peraceae [family] 109 ssp, ref2
+        Violaceae [family] 1000 Hassler, 2015
+        Caryocaraceae [family] 26 WCSP, 2015
+        Centroplacaceae [family] 1 WCSP, 2015
+        Euphorbiaceae [family] 6407 WCSP, 2015
+        Pandaceae [family] 17 WCSP, 2015
+        Phyllanthaceae [family] 2052 WCSP, 2015
+        Picrodendraceae [family] 96 WCSP, 2015
+        Putranjivaceae [family] 215 WCSP, 2015
+        Passifloraceae [family] 730 Hassler, 2015
+        Peraceae [family] 109 WCSP, 2015
         Turneraceae [family]
-        Salicaceae [family] 1350 ssp, ref30
-        Ixonanthaceae [family] 19 ssp, ref30
-        Rafflesiaceae [family] 37 ssp, ref30
-        Linaceae [family] 260 ssp, ref30
-      Myrtales [order] 13822 ssp, ref30
-        Myrtaceae [family] 6000 ssp, ref30
-        Alzateaceae [family] 1 ssp, ref30
-        Penaeaceae [family] 29 ssp, ref30
-        Melastomataceae [family] 5600 ssp, ref30
-        Crypteroniaceae [family] 12 ssp, ref30
-        Vochysiaceae [family] 240 ssp, ref30
-        Combretaceae [family] 540 ssp, ref30
-        Lythraceae [family] 650 ssp, ref30
-        Onagraceae [family] 750 ssp, ref30
-      Caryophyllales [order] 9994 ssp, ref30
-        Droseraceae [family] 179 ssp, ref32
-        Amaranthaceae [family] 2220 ssp, ref30
-        Cactaceae [family] 1600 ssp, ref30
-        Halophytaceae [family] 1 ssp, ref30
-        Nepenthaceae [family] 140 ssp, ref30
-        Simmondsiaceae [family] 1 ssp, ref30
-        Molluginaceae [family] 90 ssp, ref30
-        Montiaceae [family] 220 ssp, ref30
-        Portulacaceae [family] 130 ssp, ref30
-        Anacampserotaceae [family] 44 ssp, ref30
-        Didiereaceae [family] 22 ssp, ref30
-        Nyctaginaceae [family] 420 ssp, ref30
-        Sarcobataceae [family] 2 ssp, ref30
-        Aizoaceae [family] 1900 ssp, ref30
-        Phytolaccaceae [family] 55 ssp, ref30
-        Gisekiaceae [family] 8 ssp, ref30
-        Barbeuiaceae [family] 1 ssp, ref30
-        Kewaceae [family] 7 ssp, ref30
-        Caryophyllaceae [family] 3150 ssp, ref30
-        Limeaceae [family] 23 ssp, ref30
-        Lophiocarpaceae [family] 7 ssp, ref30
-        Stegnospermataceae [family] 4 ssp, ref30
-        Achatocarpaceae [family] 10 ssp, ref30
-        Asteropeiaceae [family] 8 ssp, ref30
-        Physenaceae [family] 2 ssp, ref30
-        Macarthuriaceae [family] 9 ssp, ref30
-        Microteaceae [family] 11 ssp, ref30
-        Dioncophyllaceae [family] 3 ssp, ref30
-        Rhabdodendraceae [family] 3 ssp, ref30
-        Ancistrocladaceae [family] 19 ssp, ref30
-        Plumbaginaceae [family] 1050 ssp, ref30
-        Drosophyllaceae [family] 1 ssp, ref30
-        Polygonaceae [family] 1400 ssp, ref30
-        Frankeniaceae [family] 76 ssp, ref30
+        Salicaceae [family] 1350 Hassler, 2015
+        Ixonanthaceae [family] 19 Hassler, 2015
+        Rafflesiaceae [family] 37 Hassler, 2015
+        Linaceae [family] 260 Hassler, 2015
+      Myrtales [order] 13822 Hassler, 2015
+        Myrtaceae [family] 6000 Hassler, 2015
+        Alzateaceae [family] 1 Hassler, 2015
+        Penaeaceae [family] 29 Hassler, 2015
+        Melastomataceae [family] 5600 Hassler, 2015
+        Crypteroniaceae [family] 12 Hassler, 2015
+        Vochysiaceae [family] 240 Hassler, 2015
+        Combretaceae [family] 540 Hassler, 2015
+        Lythraceae [family] 650 Hassler, 2015
+        Onagraceae [family] 750 Hassler, 2015
+      Caryophyllales [order] 9994 Hassler, 2015
+        Droseraceae [family] 179 Culham, 2015
+        Amaranthaceae [family] 2220 Hassler, 2015
+        Cactaceae [family] 1600 Hassler, 2015
+        Halophytaceae [family] 1 Hassler, 2015
+        Nepenthaceae [family] 140 Hassler, 2015
+        Simmondsiaceae [family] 1 Hassler, 2015
+        Molluginaceae [family] 90 Hassler, 2015
+        Montiaceae [family] 220 Hassler, 2015
+        Portulacaceae [family] 130 Hassler, 2015
+        Anacampserotaceae [family] 44 Hassler, 2015
+        Didiereaceae [family] 22 Hassler, 2015
+        Nyctaginaceae [family] 420 Hassler, 2015
+        Sarcobataceae [family] 2 Hassler, 2015
+        Aizoaceae [family] 1900 Hassler, 2015
+        Phytolaccaceae [family] 55 Hassler, 2015
+        Gisekiaceae [family] 8 Hassler, 2015
+        Barbeuiaceae [family] 1 Hassler, 2015
+        Kewaceae [family] 7 Hassler, 2015
+        Caryophyllaceae [family] 3150 Hassler, 2015
+        Limeaceae [family] 23 Hassler, 2015
+        Lophiocarpaceae [family] 7 Hassler, 2015
+        Stegnospermataceae [family] 4 Hassler, 2015
+        Achatocarpaceae [family] 10 Hassler, 2015
+        Asteropeiaceae [family] 8 Hassler, 2015
+        Physenaceae [family] 2 Hassler, 2015
+        Macarthuriaceae [family] 9 Hassler, 2015
+        Microteaceae [family] 11 Hassler, 2015
+        Dioncophyllaceae [family] 3 Hassler, 2015
+        Rhabdodendraceae [family] 3 Hassler, 2015
+        Ancistrocladaceae [family] 19 Hassler, 2015
+        Plumbaginaceae [family] 1050 Hassler, 2015
+        Drosophyllaceae [family] 1 Hassler, 2015
+        Polygonaceae [family] 1400 Hassler, 2015
+        Frankeniaceae [family] 76 Hassler, 2015
         Tamaricaceae [family]
         Basellaceae [family]
         Talinaceae [family]
-      Fabales [order] 23300 ssp, ref35
-        Fabaceae [family] 22000 ssp, ref35
-        Polygalaceae [family] 1300 ssp, ref23
-        Quillajaceae [family] 2 ssp, ref23
-        Surianaceae [family] 9 ssp, ref23
-      Asterales [order] 35326 ssp, ref30
-        Campanulaceae [family] 2373 ssp, ref2
+      Fabales [order] 23300 Roskov, 2015
+        Fabaceae [family] 22000 Roskov, 2015
+        Polygalaceae [family] 1300 Hassler, 2015
+        Quillajaceae [family] 2 Hassler, 2015
+        Surianaceae [family] 9 Hassler, 2015
+      Asterales [order] 35326 Hassler, 2015
+        Campanulaceae [family] 2373 WCSP, 2015
         Asteraceae [family]
-        Calyceraceae [family] 55 ssp, ref30
-        Menyanthaceae [family] 71 ssp, ref30
-        Goodeniaceae [family] 470 ssp, ref30
-        Stylidiaceae [family] 290 ssp, ref30
-        Argophyllaceae [family] 21 ssp, ref30
-        Pentaphragmataceae [family] 28 ssp, ref30
-        Phellinaceae [family] 14 ssp, ref30
-        Alseuosmiaceae [family] 13 ssp, ref30
-        Rousseaceae [family] 14 ssp, ref30
-      Apiales [order] 5609 ssp, ref30
-        Araliaceae [family] 1443 ssp, ref2
-        Griseliniaceae [family] 7 ssp, ref30
-        Torricelliaceae [family] 10 ssp, ref30
-        Apiaceae [family] 3700 ssp, ref30
-        Pennantiaceae [family] 4 ssp, ref30
-        Pittosporaceae [family] 200 ssp, ref30
-      Geraniales [order] 831 ssp, ref30
-        Geraniaceae [family] 740 ssp, ref22
-        Vivianiaceae [family] 6 ssp, ref30
-        Francoaceae [family] 2 ssp, ref30
-        Melianthaceae [family] 23 ssp, ref30
-      Lamiales [order] 26191 ssp, ref30
-        Gesneriaceae [family] 3500 ssp, ref30
-        Plocospermataceae [family] 1 ssp, ref30
+        Calyceraceae [family] 55 Hassler, 2015
+        Menyanthaceae [family] 71 Hassler, 2015
+        Goodeniaceae [family] 470 Hassler, 2015
+        Stylidiaceae [family] 290 Hassler, 2015
+        Argophyllaceae [family] 21 Hassler, 2015
+        Pentaphragmataceae [family] 28 Hassler, 2015
+        Phellinaceae [family] 14 Hassler, 2015
+        Alseuosmiaceae [family] 13 Hassler, 2015
+        Rousseaceae [family] 14 Hassler, 2015
+      Apiales [order] 5609 Hassler, 2015
+        Araliaceae [family] 1443 WCSP, 2015
+        Griseliniaceae [family] 7 Hassler, 2015
+        Torricelliaceae [family] 10 Hassler, 2015
+        Apiaceae [family] 3700 Hassler, 2015
+        Pennantiaceae [family] 4 Hassler, 2015
+        Pittosporaceae [family] 200 Hassler, 2015
+      Geraniales [order] 831 Hassler, 2015
+        Geraniaceae [family] 740 Aedo, 2015
+        Vivianiaceae [family] 6 Hassler, 2015
+        Francoaceae [family] 2 Hassler, 2015
+        Melianthaceae [family] 23 Hassler, 2015
+      Lamiales [order] 26191 Hassler, 2015
+        Gesneriaceae [family] 3500 Hassler, 2015
+        Plocospermataceae [family] 1 Hassler, 2015
         Lentibulariaceae [family]
-        Bignoniaceae [family] 870 ssp, ref30
-        Acanthaceae [family] 5200 ssp, ref30
-        Orobanchaceae [family] 2100 ssp, ref30
-        Pedaliaceae [family] 75 ssp, ref30
-        Martyniaceae [family] 13 ssp, ref30
-        Thomandersiaceae [family] 6 ssp, ref30
-        Paulowniaceae [family] 17 ssp, ref30
-        Phrymaceae [family] 205 ssp, ref30
-        Mazaceae [family] 40 ssp, ref30
-        Stilbaceae [family] 43 ssp, ref30
-        Linderniaceae [family] 273 ssp, ref30
-        Calceolariaceae [family] 255 ssp, ref30
-        Plantaginaceae [family] 2000 ssp, ref30
-        Byblidaceae [family] 7 ssp, ref30
-        Scrophulariaceae [family] 1950 ssp, ref30
-        Tetrachondraceae [family] 3 ssp, ref30
-        Carlemanniaceae [family] 5 ssp, ref30
-        Lamiaceae [family] 7756 ssp, ref2
-        Oleaceae [family] 680 ssp, ref2
-        Verbenaceae [family] 958 ssp, ref2
-        Schlegeliaceae [family] 37 ssp, ref2
-      Solanales [order] 4719 ssp, ref30
-        Solanaceae [family] 2850 ssp, ref30
-        Montiniaceae [family] 5 ssp, ref30
-        Sphenocleaceae [family] 2 ssp, ref30
-        Convolvulaceae [family] 1850 ssp, ref30
-        Hydroleaceae [family] 12 ssp, ref30
-      Brassicales [order] 3760 ssp, ref15
-        Brassicaceae [family] 3700 ssp, ref30
-        Setchellanthaceae [family] 1 ssp, ref30
-        Tovariaceae [family] 2 ssp, ref30
-        Koeberliniaceae [family] 2 ssp, ref30
-        Limnanthaceae [family] 9 ssp, ref30
-        Resedaceae [family] 85 ssp, ref30
-        Stixaceae [family] 22 ssp, ref30
-        Cleomaceae [family] 250 ssp, ref30
-        Capparaceae [family] 400 ssp, ref30
-        Gyrostemonaceae [family] 21 ssp, ref30
-        Pentadiplandraceae [family] 1 ssp, ref30
-        Emblingiaceae [family] 1 ssp, ref30
-        Salvadoraceae [family] 9 ssp, ref30
-        Moringaceae [family] 13 ssp, ref30
-        Caricaceae [family] 38 ssp, ref30
-        Bretschneideraceae [family] 1 ssp, ref30
-        Tropaeolaceae [family] 93 ssp, ref30
-        Akaniaceae [family] 1 ssp, ref30
-      Huerteales [order] 27 ssp, ref30
-        Petenaeaceae [family] 1 ssp, ref30
-        Gerrardinaceae [family] 2 ssp, ref30
-        Dipentodontaceae [family] 19 ssp, ref30
-        Tapisciaceae [family] 5 ssp, ref30
-        Sarcolaenaceae [family] 68 ssp, ref2
-      Dipsacales [order] 1273 ssp, ref30
-        Linnaeaceae [family] 16 ssp, ref30
-        Dipsacaceae [family] 340 ssp, ref30
-        Adoxaceae [family] 220 ssp, ref30
-        Caprifoliaceae [family] 684 ssp, ref15
-        Diervillaceae [family] 13 ssp, ref30
-      Cucurbitales [order] 4246 ssp, ref30
-        Datiscaceae [family] 2 ssp, ref30
-        Coriariaceae [family] 12 ssp, ref30
-        Cucurbitaceae [family] 1020 ssp, ref30
-        Tetramelaceae [family] 2 ssp, ref30
-        Apodanthaceae [family] 28 ssp, ref30
-        Corynocarpaceae [family] 5 ssp, ref30
-        Anisophylleaceae [family] 40 ssp, ref30
-        Begoniaceae [family] 1606 ssp, ref2
-      Crossosomatales [order] 70 ssp, ref30
-        Crossosomataceae [family] 8 ssp, ref30
-        Geissolomataceae [family] 1 ssp, ref30
-        Strasburgeriaceae [family] 1 ssp, ref30
-        Stachyuraceae [family] 12 ssp, ref30
-        Aphloiaceae [family] 1 ssp, ref30
-        Guamatelaceae [family] 1 ssp, ref30
-        Staphyleaceae [family] 45 ssp, ref30
-      Amborellales [order] 1 ssp, ref30
-        Amborellaceae [family] 1 ssp, ref30
-      Malvales [order] 6984 ssp, ref30
-        Muntingiaceae [family] 3 ssp, ref30
-        Malvaceae [family] 5200 ssp, ref30
-        Cytinaceae [family] 10 ssp, ref30
-        Dipterocarpaceae [family] 530 ssp, ref30
-        Cistaceae [family] 220 ssp, ref30
-        Bixaceae [family] 5 ssp, ref30
-        Diegodendraceae [family] 1 ssp, ref30
-        Thymelaeaceae [family] 900 ssp, ref30
-        Neuradaceae [family] 7 ssp, ref30
-        Sphaerosepalaceae [family] 20 ssp, ref2
-      Magnoliales [order] 3406 ssp, ref30
-        Annonaceae [family] 2600 ssp, ref30
-        Magnoliaceae [family] 248 ssp, ref2
-        Eupomatiaceae [family] 3 ssp, ref30
-        Himantandraceae [family] 1 ssp, ref30
-        Degeneriaceae [family] 2 ssp, ref30
-        Myristicaceae [family] 500 ssp, ref30
-      Proteales [order] 1860 ssp, ref30
-        Nelumbonaceae [family] 2 ssp, ref30
-        Sabiaceae [family] 160 ssp, ref30
-        Platanaceae [family] 8 ssp, ref30
-        Proteaceae [family] 1850 ssp, ref30
-      Bruniales [order] 87 ssp, ref30
-        Bruniaceae [family] 79 ssp, ref30
-        Columelliaceae [family] 8 ssp, ref30
-      Escalloniales [order] 130 ssp, ref30
-        Escalloniaceae [family] 130 ssp, ref30
-      Aquifoliales [order] 738 ssp, ref30
-        Helwingiaceae [family] 4 ssp, ref30
-        Phyllonomaceae [family] 4 ssp, ref30
-        Aquifoliaceae [family] 600 ssp, ref30
-        Stemonuraceae [family] 100 ssp, ref30
-        Cardiopteridaceae [family] 40 ssp, ref2
-      Boraginales [order] 3300 ssp, ref30
-        Boraginaceae [family] 3300 ssp, ref30
-      Vahliales [order] 5 ssp, ref30
-        Vahliaceae [family] 5 ssp, ref30
-      Icacinales [order] 209 ssp, ref30
-        Icacinaceae [family] 200 ssp, ref30
-        Oncothecaceae [family] 2 ssp, ref30
-      Gentianales [order] 22093 ssp, ref30
-        Gentianaceae [family] 1800 ssp, ref30
-        Loganiaceae [family] 480 ssp, ref30
-        Gelsemiaceae [family] 12 ssp, ref30
-        Apocynaceae [family] 6300 ssp, ref30
-        Rubiaceae [family] 13581 ssp, ref2
+        Bignoniaceae [family] 870 Hassler, 2015
+        Acanthaceae [family] 5200 Hassler, 2015
+        Orobanchaceae [family] 2100 Hassler, 2015
+        Pedaliaceae [family] 75 Hassler, 2015
+        Martyniaceae [family] 13 Hassler, 2015
+        Thomandersiaceae [family] 6 Hassler, 2015
+        Paulowniaceae [family] 17 Hassler, 2015
+        Phrymaceae [family] 205 Hassler, 2015
+        Mazaceae [family] 40 Hassler, 2015
+        Stilbaceae [family] 43 Hassler, 2015
+        Linderniaceae [family] 273 Hassler, 2015
+        Calceolariaceae [family] 255 Hassler, 2015
+        Plantaginaceae [family] 2000 Hassler, 2015
+        Byblidaceae [family] 7 Hassler, 2015
+        Scrophulariaceae [family] 1950 Hassler, 2015
+        Tetrachondraceae [family] 3 Hassler, 2015
+        Carlemanniaceae [family] 5 Hassler, 2015
+        Lamiaceae [family] 7756 WCSP, 2015
+        Oleaceae [family] 680 WCSP, 2015
+        Verbenaceae [family] 958 WCSP, 2015
+        Schlegeliaceae [family] 37 WCSP, 2015
+      Solanales [order] 4719 Hassler, 2015
+        Solanaceae [family] 2850 Hassler, 2015
+        Montiniaceae [family] 5 Hassler, 2015
+        Sphenocleaceae [family] 2 Hassler, 2015
+        Convolvulaceae [family] 1850 Hassler, 2015
+        Hydroleaceae [family] 12 Hassler, 2015
+      Brassicales [order] 3760 Hassler, 2015
+        Brassicaceae [family] 3700 Hassler, 2015
+        Setchellanthaceae [family] 1 Hassler, 2015
+        Tovariaceae [family] 2 Hassler, 2015
+        Koeberliniaceae [family] 2 Hassler, 2015
+        Limnanthaceae [family] 9 Hassler, 2015
+        Resedaceae [family] 85 Hassler, 2015
+        Stixaceae [family] 22 Hassler, 2015
+        Cleomaceae [family] 250 Hassler, 2015
+        Capparaceae [family] 400 Hassler, 2015
+        Gyrostemonaceae [family] 21 Hassler, 2015
+        Pentadiplandraceae [family] 1 Hassler, 2015
+        Emblingiaceae [family] 1 Hassler, 2015
+        Salvadoraceae [family] 9 Hassler, 2015
+        Moringaceae [family] 13 Hassler, 2015
+        Caricaceae [family] 38 Hassler, 2015
+        Bretschneideraceae [family] 1 Hassler, 2015
+        Tropaeolaceae [family] 93 Hassler, 2015
+        Akaniaceae [family] 1 Hassler, 2015
+      Huerteales [order] 27 Hassler, 2015
+        Petenaeaceae [family] 1 Hassler, 2015
+        Gerrardinaceae [family] 2 Hassler, 2015
+        Dipentodontaceae [family] 19 Hassler, 2015
+        Tapisciaceae [family] 5 Hassler, 2015
+        Sarcolaenaceae [family] 68 WCSP, 2015
+      Dipsacales [order] 1273 Hassler, 2015
+        Linnaeaceae [family] 16 Hassler, 2015
+        Dipsacaceae [family] 340 Hassler, 2015
+        Adoxaceae [family] 220 Hassler, 2015
+        Caprifoliaceae [family] 684 Hassler, 2015
+        Diervillaceae [family] 13 Hassler, 2015
+      Cucurbitales [order] 4246 Hassler, 2015
+        Datiscaceae [family] 2 Hassler, 2015
+        Coriariaceae [family] 12 Hassler, 2015
+        Cucurbitaceae [family] 1020 Hassler, 2015
+        Tetramelaceae [family] 2 Hassler, 2015
+        Apodanthaceae [family] 28 Hassler, 2015
+        Corynocarpaceae [family] 5 Hassler, 2015
+        Anisophylleaceae [family] 40 Hassler, 2015
+        Begoniaceae [family] 1606 WCSP, 2015
+      Crossosomatales [order] 70 Hassler, 2015
+        Crossosomataceae [family] 8 Hassler, 2015
+        Geissolomataceae [family] 1 Hassler, 2015
+        Strasburgeriaceae [family] 1 Hassler, 2015
+        Stachyuraceae [family] 12 Hassler, 2015
+        Aphloiaceae [family] 1 Hassler, 2015
+        Guamatelaceae [family] 1 Hassler, 2015
+        Staphyleaceae [family] 45 Hassler, 2015
+      Amborellales [order] 1 Hassler, 2015
+        Amborellaceae [family] 1 Hassler, 2015
+      Malvales [order] 6984 Hassler, 2015
+        Muntingiaceae [family] 3 Hassler, 2015
+        Malvaceae [family] 5200 Hassler, 2015
+        Cytinaceae [family] 10 Hassler, 2015
+        Dipterocarpaceae [family] 530 Hassler, 2015
+        Cistaceae [family] 220 Hassler, 2015
+        Bixaceae [family] 5 Hassler, 2015
+        Diegodendraceae [family] 1 Hassler, 2015
+        Thymelaeaceae [family] 900 Hassler, 2015
+        Neuradaceae [family] 7 Hassler, 2015
+        Sphaerosepalaceae [family] 20 WCSP, 2015
+      Magnoliales [order] 3406 Hassler, 2015
+        Annonaceae [family] 2600 Hassler, 2015
+        Magnoliaceae [family] 248 WCSP, 2015
+        Eupomatiaceae [family] 3 Hassler, 2015
+        Himantandraceae [family] 1 Hassler, 2015
+        Degeneriaceae [family] 2 Hassler, 2015
+        Myristicaceae [family] 500 Hassler, 2015
+      Proteales [order] 1860 Hassler, 2015
+        Nelumbonaceae [family] 2 Hassler, 2015
+        Sabiaceae [family] 160 Hassler, 2015
+        Platanaceae [family] 8 Hassler, 2015
+        Proteaceae [family] 1850 Hassler, 2015
+      Bruniales [order] 87 Hassler, 2015
+        Bruniaceae [family] 79 Hassler, 2015
+        Columelliaceae [family] 8 Hassler, 2015
+      Escalloniales [order] 130 Hassler, 2015
+        Escalloniaceae [family] 130 Hassler, 2015
+      Aquifoliales [order] 738 Hassler, 2015
+        Helwingiaceae [family] 4 Hassler, 2015
+        Phyllonomaceae [family] 4 Hassler, 2015
+        Aquifoliaceae [family] 600 Hassler, 2015
+        Stemonuraceae [family] 100 Hassler, 2015
+        Cardiopteridaceae [family] 40 WCSP, 2015
+      Boraginales [order] 3300 Hassler, 2015
+        Boraginaceae [family] 3300 Hassler, 2015
+      Vahliales [order] 5 Hassler, 2015
+        Vahliaceae [family] 5 Hassler, 2015
+      Icacinales [order] 209 Hassler, 2015
+        Icacinaceae [family] 200 Hassler, 2015
+        Oncothecaceae [family] 2 Hassler, 2015
+      Gentianales [order] 22093 Hassler, 2015
+        Gentianaceae [family] 1800 Hassler, 2015
+        Loganiaceae [family] 480 Hassler, 2015
+        Gelsemiaceae [family] 12 Hassler, 2015
+        Apocynaceae [family] 6300 Hassler, 2015
+        Rubiaceae [family] 13581 WCSP, 2015
       Metteniusales [order]
-        Metteniusaceae [family] 7 ssp, ref30
-      Cornales [order] 672 ssp, ref30
-        Hydrostachyaceae [family] 19 ssp, ref30
-        Loasaceae [family] 323 ssp, ref30
-        Hydrangeaceae [family] 215 ssp, ref30
-        Curtisiaceae [family] 1 ssp, ref30
-        Grubbiaceae [family] 3 ssp, ref30
-        Cornaceae [family] 111 ssp, ref30
-      Berberidopsidales [order] 4 ssp, ref30
-        Berberidopsidaceae [family] 3 ssp, ref30
-        Aextoxicaceae [family] 1 ssp, ref30
-      Santalales [order] 2306 ssp, ref30
-        Balanophoraceae [family] 45 ssp, ref30
+        Metteniusaceae [family] 7 Hassler, 2015
+      Cornales [order] 672 Hassler, 2015
+        Hydrostachyaceae [family] 19 Hassler, 2015
+        Loasaceae [family] 323 Hassler, 2015
+        Hydrangeaceae [family] 215 Hassler, 2015
+        Curtisiaceae [family] 1 Hassler, 2015
+        Grubbiaceae [family] 3 Hassler, 2015
+        Cornaceae [family] 111 Hassler, 2015
+      Berberidopsidales [order] 4 Hassler, 2015
+        Berberidopsidaceae [family] 3 Hassler, 2015
+        Aextoxicaceae [family] 1 Hassler, 2015
+      Santalales [order] 2306 Hassler, 2015
+        Balanophoraceae [family] 45 Hassler, 2015
         Santalaceae [family]
-        Misodendraceae [family] 8 ssp, ref30
-        Loranthaceae [family] 1000 ssp, ref30
-        Schoepfiaceae [family] 50 ssp, ref30
-        Octoknemaceae [family] 14 ssp, ref30
-        Olacaceae [family] 55 ssp, ref30
-        Aptandraceae [family] 32 ssp, ref30
-        Coulaceae [family] 3 ssp, ref30
-        Ximeniaceae [family] 14 ssp, ref30
-        Strombosiaceae [family] 20 ssp, ref30
-        Erythropalaceae [family] 38 ssp, ref30
-        Opiliaceae [family] 33 ssp, ref2
-      Sapindales [order] 6238 ssp, ref30
-        Simaroubaceae [family] 105 ssp, ref30
-        Meliaceae [family] 710 ssp, ref30
-        Sapindaceae [family] 1820 ssp, ref30
-        Rutaceae [family] 2050 ssp, ref30
-        Anacardiaceae [family] 900 ssp, ref30
-        Burseraceae [family] 630 ssp, ref30
-        Tetradiclidaceae [family] 6 ssp, ref30
-        Kirkiaceae [family] 6 ssp, ref30
-        Nitrariaceae [family] 7 ssp, ref30
-        Biebersteiniaceae [family] 4 ssp, ref30
-      Picramniales [order] 54 ssp, ref30
-        Picramniaceae [family] 54 ssp, ref30
-      Rosales [order] 9508 ssp, ref15
-        Urticaceae [family] 1900 ssp, ref30
-        Moraceae [family] 1200 ssp, ref30
-        Cannabaceae [family] 105 ssp, ref30
-        Ulmaceae [family] 50 ssp, ref30
-        Elaeagnaceae [family] 100 ssp, ref30
-        Rhamnaceae [family] 1150 ssp, ref30
-        Dirachmaceae [family] 2 ssp, ref30
-        Barbeyaceae [family] 1 ssp, ref30
-        Rosaceae [family] 5000 ssp, ref30
-      Oxalidales [order] 1979 ssp, ref15
-        Cephalotaceae [family] 1 ssp, ref30
-        Elaeocarpaceae [family] 750 ssp, ref30
-        Brunelliaceae [family] 54 ssp, ref30
-        Oxalidaceae [family] 610 ssp, ref30
-        Cunoniaceae [family] 330 ssp, ref30
-        Connaraceae [family] 230 ssp, ref30
-        Huaceae [family] 4 ssp, ref30
-      Celastrales [order] 1279 ssp, ref15
-        Celastraceae [family] 1275 ssp, ref15
-        Lepidobotryaceae [family] 2 ssp, ref30
-      Zygophyllales [order] 307 ssp, ref15
-        Zygophyllaceae [family] 290 ssp, ref30
-        Krameriaceae [family] 17 ssp, ref30
-      Vitales [order] 1000 ssp, ref15
-        Vitaceae [family] 1000 ssp, ref30
-      Dilleniales [order] 500 ssp, ref30
-        Dilleniaceae [family] 500 ssp, ref30
-      Gunnerales [order] 62 ssp, ref30
-        Myrothamnaceae [family] 2 ssp, ref30
-        Gunneraceae [family] 60 ssp, ref30
-      Buxales [order] 120 ssp, ref30
-        Buxaceae [family] 123 ssp, ref15
-        Didymelaceae [family] 3 ssp, ref30
-      Trochodendrales [order] 2 ssp, ref15
-        Trochodendraceae [family] 2 ssp, ref30
-      Paracryphiales [order] 35 ssp, ref30
-        Paracryphiaceae [family] 35 ssp, ref30
-      Ranunculales [order] 5628 ssp, ref30
-        Ranunculaceae [family] 3500 ssp, ref30
-        Papaveraceae [family] 950 ssp, ref30
-        Berberidaceae [family] 600 ssp, ref30
+        Misodendraceae [family] 8 Hassler, 2015
+        Loranthaceae [family] 1000 Hassler, 2015
+        Schoepfiaceae [family] 50 Hassler, 2015
+        Octoknemaceae [family] 14 Hassler, 2015
+        Olacaceae [family] 55 Hassler, 2015
+        Aptandraceae [family] 32 Hassler, 2015
+        Coulaceae [family] 3 Hassler, 2015
+        Ximeniaceae [family] 14 Hassler, 2015
+        Strombosiaceae [family] 20 Hassler, 2015
+        Erythropalaceae [family] 38 Hassler, 2015
+        Opiliaceae [family] 33 WCSP, 2015
+      Sapindales [order] 6238 Hassler, 2015
+        Simaroubaceae [family] 105 Hassler, 2015
+        Meliaceae [family] 710 Hassler, 2015
+        Sapindaceae [family] 1820 Hassler, 2015
+        Rutaceae [family] 2050 Hassler, 2015
+        Anacardiaceae [family] 900 Hassler, 2015
+        Burseraceae [family] 630 Hassler, 2015
+        Tetradiclidaceae [family] 6 Hassler, 2015
+        Kirkiaceae [family] 6 Hassler, 2015
+        Nitrariaceae [family] 7 Hassler, 2015
+        Biebersteiniaceae [family] 4 Hassler, 2015
+      Picramniales [order] 54 Hassler, 2015
+        Picramniaceae [family] 54 Hassler, 2015
+      Rosales [order] 9508 Hassler, 2015
+        Urticaceae [family] 1900 Hassler, 2015
+        Moraceae [family] 1200 Hassler, 2015
+        Cannabaceae [family] 105 Hassler, 2015
+        Ulmaceae [family] 50 Hassler, 2015
+        Elaeagnaceae [family] 100 Hassler, 2015
+        Rhamnaceae [family] 1150 Hassler, 2015
+        Dirachmaceae [family] 2 Hassler, 2015
+        Barbeyaceae [family] 1 Hassler, 2015
+        Rosaceae [family] 5000 Hassler, 2015
+      Oxalidales [order] 1979 Hassler, 2015
+        Cephalotaceae [family] 1 Hassler, 2015
+        Elaeocarpaceae [family] 750 Hassler, 2015
+        Brunelliaceae [family] 54 Hassler, 2015
+        Oxalidaceae [family] 610 Hassler, 2015
+        Cunoniaceae [family] 330 Hassler, 2015
+        Connaraceae [family] 230 Hassler, 2015
+        Huaceae [family] 4 Hassler, 2015
+      Celastrales [order] 1279 Hassler, 2015
+        Celastraceae [family] 1275 Hassler, 2015
+        Lepidobotryaceae [family] 2 Hassler, 2015
+      Zygophyllales [order] 307 Hassler, 2015
+        Zygophyllaceae [family] 290 Hassler, 2015
+        Krameriaceae [family] 17 Hassler, 2015
+      Vitales [order] 1000 Hassler, 2015
+        Vitaceae [family] 1000 Hassler, 2015
+      Dilleniales [order] 500 Hassler, 2015
+        Dilleniaceae [family] 500 Hassler, 2015
+      Gunnerales [order] 62 Hassler, 2015
+        Myrothamnaceae [family] 2 Hassler, 2015
+        Gunneraceae [family] 60 Hassler, 2015
+      Buxales [order] 120 Hassler, 2015
+        Buxaceae [family] 123 Hassler, 2015
+        Didymelaceae [family] 3 Hassler, 2015
+      Trochodendrales [order] 2 Hassler, 2015
+        Trochodendraceae [family] 2 Hassler, 2015
+      Paracryphiales [order] 35 Hassler, 2015
+        Paracryphiaceae [family] 35 Hassler, 2015
+      Ranunculales [order] 5628 Hassler, 2015
+        Ranunculaceae [family] 3500 Hassler, 2015
+        Papaveraceae [family] 950 Hassler, 2015
+        Berberidaceae [family] 600 Hassler, 2015
         Eupteleaceae [family]
         Circaeasteraceae [family]
         Lardizabalaceae [family]
         Menispermaceae [family]
-      Ceratophyllales [order] 5 ssp, ref30
-        Ceratophyllaceae [family] 5 ssp, ref30
-      Laurales [order] 3418 ssp, ref30
-        Atherospermataceae [family] 18 ssp, ref30
-        Hernandiaceae [family] 70 ssp, ref30
-        Lauraceae [family] 3000 ssp, ref30
-        Monimiaceae [family] 260 ssp, ref30
-        Gomortegaceae [family] 1 ssp, ref30
-        Siparunaceae [family] 60 ssp, ref30
-        Calycanthaceae [family] 9 ssp, ref30
-      Piperales [order] 3352 ssp, ref30
-        Aristolochiaceae [family] 640 ssp, ref30
-        Piperaceae [family] 2700 ssp, ref30
-        Hydnoraceae [family] 8 ssp, ref30
-        Saururaceae [family] 4 ssp, ref30
-      Canellales [order] 116 ssp, ref15
-        Canellaceae [family] 21 ssp, ref30
-        Winteraceae [family] 95 ssp, ref30
-      Austrobaileyales [order] 92 ssp, ref30
-        Schisandraceae [family] 84 ssp, ref30
-        Trimeniaceae [family] 7 ssp, ref30
-        Austrobaileyaceae [family] 1 ssp, ref30
-      Chloranthales [order] 70 ssp, ref15
-        Chloranthaceae [family] 70 ssp, ref30
-      Nymphaeales [order] 86 ssp, ref30
-        Cabombaceae [family] 5 ssp, ref30
-        Nymphaeaceae [family] 70 ssp, ref30
-        Hydatellaceae [family] 11 ssp, ref30
-    Cycadopsida [class] 317 ssp, ref30
-      Cycadales [order] 317 ssp, ref30
-        Zamiaceae [family] 220 ssp, ref30
-        Cycadaceae [family] 97 ssp, ref30
-    Liliopsida [class] 72926 ssp, ref37
-      Poales [order] 23362 ssp, ref2
-        Juncaceae [family] 435 ssp, ref2
-        Xyridaceae [family] 394 ssp, ref2
-        Typhaceae [family] 63 ssp, ref2
-        Thurniaceae [family] 4 ssp, ref2
-        Restionaceae [family] 482 ssp, ref2
-        Rapateaceae [family] 95 ssp, ref2
-        Poaceae [family] 11543 ssp, ref2
-        Mayacaceae [family] 6 ssp, ref2
+      Ceratophyllales [order] 5 Hassler, 2015
+        Ceratophyllaceae [family] 5 Hassler, 2015
+      Laurales [order] 3418 Hassler, 2015
+        Atherospermataceae [family] 18 Hassler, 2015
+        Hernandiaceae [family] 70 Hassler, 2015
+        Lauraceae [family] 3000 Hassler, 2015
+        Monimiaceae [family] 260 Hassler, 2015
+        Gomortegaceae [family] 1 Hassler, 2015
+        Siparunaceae [family] 60 Hassler, 2015
+        Calycanthaceae [family] 9 Hassler, 2015
+      Piperales [order] 3352 Hassler, 2015
+        Aristolochiaceae [family] 640 Hassler, 2015
+        Piperaceae [family] 2700 Hassler, 2015
+        Hydnoraceae [family] 8 Hassler, 2015
+        Saururaceae [family] 4 Hassler, 2015
+      Canellales [order] 116 Hassler, 2015
+        Canellaceae [family] 21 Hassler, 2015
+        Winteraceae [family] 95 Hassler, 2015
+      Austrobaileyales [order] 92 Hassler, 2015
+        Schisandraceae [family] 84 Hassler, 2015
+        Trimeniaceae [family] 7 Hassler, 2015
+        Austrobaileyaceae [family] 1 Hassler, 2015
+      Chloranthales [order] 70 Hassler, 2015
+        Chloranthaceae [family] 70 Hassler, 2015
+      Nymphaeales [order] 86 Hassler, 2015
+        Cabombaceae [family] 5 Hassler, 2015
+        Nymphaeaceae [family] 70 Hassler, 2015
+        Hydatellaceae [family] 11 Hassler, 2015
+    Cycadopsida [class] 317 Hassler, 2015
+      Cycadales [order] 317 Hassler, 2015
+        Zamiaceae [family] 220 Hassler, 2015
+        Cycadaceae [family] 97 Hassler, 2015
+    Liliopsida [class] 72926 Govaerts, 2015
+      Poales [order] 23362 WCSP, 2015
+        Juncaceae [family] 435 WCSP, 2015
+        Xyridaceae [family] 394 WCSP, 2015
+        Typhaceae [family] 63 WCSP, 2015
+        Thurniaceae [family] 4 WCSP, 2015
+        Restionaceae [family] 482 WCSP, 2015
+        Rapateaceae [family] 95 WCSP, 2015
+        Poaceae [family] 11543 WCSP, 2015
+        Mayacaceae [family] 6 WCSP, 2015
         Joinvilleaceae [family]
-        Flagellariaceae [family] 4 ssp, ref2
-        Eriocaulaceae [family] 1206 ssp, ref2
-        Ecdeiocoleaceae [family] 3 ssp, ref2
-        Cyperaceae [family] 5750 ssp, ref2
-        Centrolepidaceae [family] 35 ssp, ref2
-        Bromeliaceae [family] 3327 ssp, ref2
-        Anarthriaceae [family] 11 ssp, ref2
-      Zingiberales [order] 2619 ssp, ref2
-        Zingiberaceae [family] 1600 ssp, ref2
-        Strelitziaceae [family] 7 ssp, ref2
-        Musaceae [family] 79 ssp, ref2
-        Marantaceae [family] 568 ssp, ref2
-        Lowiaceae [family] 17 ssp, ref2
-        Heliconiaceae [family] 201 ssp, ref2
-        Costaceae [family] 137 ssp, ref2
-        Cannaceae [family] 10 ssp, ref2
-      Petrosaviales [order] 4 ssp, ref2
-        Petrosaviaceae [family] 4 ssp, ref2
-      Pandanales [order] 1579 ssp, ref2
-        Velloziaceae [family] 286 ssp, ref2
-        Triuridaceae [family] 50 ssp, ref2
-        Stemonaceae [family] 37 ssp, ref2
-        Pandanaceae [family] 975 ssp, ref2
-        Cyclanthaceae [family] 231 ssp, ref2
-      Liliales [order] 1736 ssp, ref2
-        Smilacaceae [family] 256 ssp, ref2
-        Philesiaceae [family] 2 ssp, ref2
-        Petermanniaceae [family] 1 ssp, ref2
-        Melanthiaceae [family] 179 ssp, ref2
-        Liliaceae [family] 724 ssp, ref2
-        Corsiaceae [family] 27 ssp, ref2
-        Colchicaceae [family] 283 ssp, ref2
-        Campynemataceae [family] 4 ssp, ref2
-        Alstroemeriaceae [family] 254 ssp, ref2
-        Ripogonaceae [family] 6 ssp, ref2
-      Dioscoreales [order] 844 ssp, ref2
-        Nartheciaceae [family] 36 ssp, ref2
-        Dioscoreaceae [family] 627 ssp, ref2
-        Burmanniaceae [family] 165 ssp, ref2
-        Taccaceae [family] 16 ssp, ref2
-      Arecales [order] 2577 ssp, ref1
-        Dasypogonaceae [family] 16 ssp, ref2
-        Arecaceae [family] 2561 ssp, ref2
-      Commelinales [order] 885 ssp, ref2
-        Pontederiaceae [family] 33 ssp, ref2
-        Philydraceae [family] 6 ssp, ref2
-        Hanguanaceae [family] 11 ssp, ref2
-        Haemodoraceae [family] 101 ssp, ref2
-        Commelinaceae [family] 734 ssp, ref2
-      Asparagales [order] 36670 ssp, ref2
-        Xeronemataceae [family] 2 ssp, ref2
-        Xanthorrhoeaceae [family] 1224 ssp, ref2
-        Tecophilaeaceae [family] 27 ssp, ref2
-        Orchidaceae [family] 27753 ssp, ref2
-        Lanariaceae [family] 1 ssp, ref2
-        Ixioliriaceae [family] 4 ssp, ref2
-        Iridaceae [family] 2273 ssp, ref2
-        Hypoxidaceae [family] 153 ssp, ref2
-        Doryanthaceae [family] 2 ssp, ref2
-        Boryaceae [family] 12 ssp, ref2
-        Blandfordiaceae [family] 4 ssp, ref2
-        Asteliaceae [family] 37 ssp, ref2
-        Asparagaceae [family] 2943 ssp, ref2
-        Amaryllidaceae [family] 2234 ssp, ref2
-      Alismatales [order] 3953 ssp, ref2
-        Zosteraceae [family] 22 ssp, ref2
-        Tofieldiaceae [family] 19 ssp, ref2
-        Scheuchzeriaceae [family] 1 ssp, ref2
-        Ruppiaceae [family] 8 ssp, ref2
-        Posidoniaceae [family] 9 ssp, ref2
-        Juncaginaceae [family] 35 ssp, ref2
-        Hydrocharitaceae [family] 131 ssp, ref2
-        Cymodoceaceae [family] 17 ssp, ref2
-        Butomaceae [family] 2 ssp, ref2
-        Araceae [family] 3353 ssp, ref2
-        Aponogetonaceae [family] 56 ssp, ref2
-        Alismataceae [family] 117 ssp, ref2
-        Potamogetonaceae [family] 183 ssp, ref2
-      Acorales [order] 2 ssp, ref2
-        Acoraceae [family] 2 ssp, ref2
-    Pinopsida [class] 615 ssp, ref62
-      Pinales [order] 615 ssp, ref44
-        Taxaceae [family] 21 ssp, ref44
-        Sciadopityaceae [family] 1 ssp, ref44
-        Podocarpaceae [family] 185 ssp, ref44
-        Pinaceae [family] 225 ssp, ref44
-        Phyllocladaceae [family] 4 ssp, ref44
-        Cupressaceae [family] 130 ssp, ref44
-        Cephalotaxaceae [family] 8 ssp, ref44
-        Araucariaceae [family] 41 ssp, ref44
-    Gnetopsida [class] 112 ssp, ref2
+        Flagellariaceae [family] 4 WCSP, 2015
+        Eriocaulaceae [family] 1206 WCSP, 2015
+        Ecdeiocoleaceae [family] 3 WCSP, 2015
+        Cyperaceae [family] 5750 WCSP, 2015
+        Centrolepidaceae [family] 35 WCSP, 2015
+        Bromeliaceae [family] 3327 WCSP, 2015
+        Anarthriaceae [family] 11 WCSP, 2015
+      Zingiberales [order] 2619 WCSP, 2015
+        Zingiberaceae [family] 1600 WCSP, 2015
+        Strelitziaceae [family] 7 WCSP, 2015
+        Musaceae [family] 79 WCSP, 2015
+        Marantaceae [family] 568 WCSP, 2015
+        Lowiaceae [family] 17 WCSP, 2015
+        Heliconiaceae [family] 201 WCSP, 2015
+        Costaceae [family] 137 WCSP, 2015
+        Cannaceae [family] 10 WCSP, 2015
+      Petrosaviales [order] 4 WCSP, 2015
+        Petrosaviaceae [family] 4 WCSP, 2015
+      Pandanales [order] 1579 WCSP, 2015
+        Velloziaceae [family] 286 WCSP, 2015
+        Triuridaceae [family] 50 WCSP, 2015
+        Stemonaceae [family] 37 WCSP, 2015
+        Pandanaceae [family] 975 WCSP, 2015
+        Cyclanthaceae [family] 231 WCSP, 2015
+      Liliales [order] 1736 WCSP, 2015
+        Smilacaceae [family] 256 WCSP, 2015
+        Philesiaceae [family] 2 WCSP, 2015
+        Petermanniaceae [family] 1 WCSP, 2015
+        Melanthiaceae [family] 179 WCSP, 2015
+        Liliaceae [family] 724 WCSP, 2015
+        Corsiaceae [family] 27 WCSP, 2015
+        Colchicaceae [family] 283 WCSP, 2015
+        Campynemataceae [family] 4 WCSP, 2015
+        Alstroemeriaceae [family] 254 WCSP, 2015
+        Ripogonaceae [family] 6 WCSP, 2015
+      Dioscoreales [order] 844 WCSP, 2015
+        Nartheciaceae [family] 36 WCSP, 2015
+        Dioscoreaceae [family] 627 WCSP, 2015
+        Burmanniaceae [family] 165 WCSP, 2015
+        Taccaceae [family] 16 WCSP, 2015
+      Arecales [order] 2577 WCSP, 2015
+        Dasypogonaceae [family] 16 WCSP, 2015
+        Arecaceae [family] 2561 WCSP, 2015
+      Commelinales [order] 885 WCSP, 2015
+        Pontederiaceae [family] 33 WCSP, 2015
+        Philydraceae [family] 6 WCSP, 2015
+        Hanguanaceae [family] 11 WCSP, 2015
+        Haemodoraceae [family] 101 WCSP, 2015
+        Commelinaceae [family] 734 WCSP, 2015
+      Asparagales [order] 36670 WCSP, 2015
+        Xeronemataceae [family] 2 WCSP, 2015
+        Xanthorrhoeaceae [family] 1224 WCSP, 2015
+        Tecophilaeaceae [family] 27 WCSP, 2015
+        Orchidaceae [family] 27753 WCSP, 2015
+        Lanariaceae [family] 1 WCSP, 2015
+        Ixioliriaceae [family] 4 WCSP, 2015
+        Iridaceae [family] 2273 WCSP, 2015
+        Hypoxidaceae [family] 153 WCSP, 2015
+        Doryanthaceae [family] 2 WCSP, 2015
+        Boryaceae [family] 12 WCSP, 2015
+        Blandfordiaceae [family] 4 WCSP, 2015
+        Asteliaceae [family] 37 WCSP, 2015
+        Asparagaceae [family] 2943 WCSP, 2015
+        Amaryllidaceae [family] 2234 WCSP, 2015
+      Alismatales [order] 3953 WCSP, 2015
+        Zosteraceae [family] 22 WCSP, 2015
+        Tofieldiaceae [family] 19 WCSP, 2015
+        Scheuchzeriaceae [family] 1 WCSP, 2015
+        Ruppiaceae [family] 8 WCSP, 2015
+        Posidoniaceae [family] 9 WCSP, 2015
+        Juncaginaceae [family] 35 WCSP, 2015
+        Hydrocharitaceae [family] 131 WCSP, 2015
+        Cymodoceaceae [family] 17 WCSP, 2015
+        Butomaceae [family] 2 WCSP, 2015
+        Araceae [family] 3353 WCSP, 2015
+        Aponogetonaceae [family] 56 WCSP, 2015
+        Alismataceae [family] 117 WCSP, 2015
+        Potamogetonaceae [family] 183 WCSP, 2015
+      Acorales [order] 2 WCSP, 2015
+        Acoraceae [family] 2 WCSP, 2015
+    Pinopsida [class] 615 Farjon, 2010
+      Pinales [order] 615 Farjon, 2010
+        Taxaceae [family] 21 Farjon, 2010
+        Sciadopityaceae [family] 1 Farjon, 2010
+        Podocarpaceae [family] 185 Farjon, 2010
+        Pinaceae [family] 225 Farjon, 2010
+        Phyllocladaceae [family] 4 Farjon, 2010
+        Cupressaceae [family] 130 Farjon, 2010
+        Cephalotaxaceae [family] 8 Farjon, 2010
+        Araucariaceae [family] 41 Farjon, 2010
+    Gnetopsida [class] 112 WCSP, 2015
 \N
 \N
       Gnetales [order]
         Gnetaceae [family]
       Ephedrales [order]
         Ephedraceae [family]
-    Polypodiopsida [class] 10804 ssp, ref58
-      Polypodiales [order] 9049 ssp, ref58
-        Davalliaceae [family] 50 ssp, ref58
-        Oleandraceae [family] 18 ssp, ref58
-        Hemidictyaceae [family] 1 ssp, ref58
-        Aspleniaceae [family] 720 ssp, ref58
-        Thelypteridaceae [family] 1200 ssp, ref58
-        Lomariopsidaceae [family] 55 ssp, ref58
-        Tectariaceae [family] 300 ssp, ref58
-        Dryopteridaceae [family] 2100 ssp, ref58
-        Hypodematiaceae [family] 16 ssp, ref58
-        Onocleaceae [family] 5 ssp, ref58
-        Diplaziopsidaceae [family] 3 ssp, ref58
-        Athyriaceae [family] 730 ssp, ref58
-        Polypodiaceae [family] 1650 ssp, ref58
-        Pteridaceae [family] 1320 ssp, ref58
-        Rhachidosoridaceae [family] 6 ssp, ref58
-        Cystopteridaceae [family] 38 ssp, ref58
-        Dennstaedtiaceae [family] 240 ssp, ref58
-        Lindsaeaceae [family] 230 ssp, ref58
-        Blechnaceae [family] 250 ssp, ref58
-        Woodsiaceae [family] 50 ssp, ref58
-        Lonchitidaceae [family] 3 ssp, ref58
+    Polypodiopsida [class] 10804 Hassler, 2015b
+      Polypodiales [order] 9049 Hassler, 2015b
+        Davalliaceae [family] 50 Hassler, 2015b
+        Oleandraceae [family] 18 Hassler, 2015b
+        Hemidictyaceae [family] 1 Hassler, 2015b
+        Aspleniaceae [family] 720 Hassler, 2015b
+        Thelypteridaceae [family] 1200 Hassler, 2015b
+        Lomariopsidaceae [family] 55 Hassler, 2015b
+        Tectariaceae [family] 300 Hassler, 2015b
+        Dryopteridaceae [family] 2100 Hassler, 2015b
+        Hypodematiaceae [family] 16 Hassler, 2015b
+        Onocleaceae [family] 5 Hassler, 2015b
+        Diplaziopsidaceae [family] 3 Hassler, 2015b
+        Athyriaceae [family] 730 Hassler, 2015b
+        Polypodiaceae [family] 1650 Hassler, 2015b
+        Pteridaceae [family] 1320 Hassler, 2015b
+        Rhachidosoridaceae [family] 6 Hassler, 2015b
+        Cystopteridaceae [family] 38 Hassler, 2015b
+        Dennstaedtiaceae [family] 240 Hassler, 2015b
+        Lindsaeaceae [family] 230 Hassler, 2015b
+        Blechnaceae [family] 250 Hassler, 2015b
+        Woodsiaceae [family] 50 Hassler, 2015b
+        Lonchitidaceae [family] 3 Hassler, 2015b
         Desmophlebiaceae [family]
-        Saccolomataceae [family] 24 ssp, ref58
-      Cyatheales [order] 711 ssp, ref58
-        Thyrsopteridaceae [family] 1 ssp, ref58
-        Loxsomataceae [family] 2 ssp, ref58
-        Culcitaceae [family] 2 ssp, ref58
-        Plagiogyriaceae [family] 12 ssp, ref58
-        Cibotiaceae [family] 11 ssp, ref58
-        Cyatheaceae [family] 650 ssp, ref58
-        Dicksoniaceae [family] 31 ssp, ref58
-        Metaxyaceae [family] 2 ssp, ref58
-      Schizaeales [order] 187 ssp, ref58
-        Schizaeaceae [family] 33 ssp, ref58
-        Anemiaceae [family] 125 ssp, ref58
-        Lygodiaceae [family] 29 ssp, ref58
-      Salviniales [order] 78 ssp, ref58
-        Marsileaceae [family] 60 ssp, ref58
-        Salviniaceae [family] 18 ssp, ref58
-      Gleicheniales [order] 163 ssp, ref58
-        Dipteridaceae [family] 10 ssp, ref58
-        Matoniaceae [family] 3 ssp, ref58
-        Gleicheniaceae [family] 150 ssp, ref58
-      Hymenophyllales [order] 600 ssp, ref58
-        Hymenophyllaceae [family] 600 ssp, ref58
-      Osmundales [order] 21 ssp, ref58
-        Osmundaceae [family] 21 ssp, ref58
+        Saccolomataceae [family] 24 Hassler, 2015b
+      Cyatheales [order] 711 Hassler, 2015b
+        Thyrsopteridaceae [family] 1 Hassler, 2015b
+        Loxsomataceae [family] 2 Hassler, 2015b
+        Culcitaceae [family] 2 Hassler, 2015b
+        Plagiogyriaceae [family] 12 Hassler, 2015b
+        Cibotiaceae [family] 11 Hassler, 2015b
+        Cyatheaceae [family] 650 Hassler, 2015b
+        Dicksoniaceae [family] 31 Hassler, 2015b
+        Metaxyaceae [family] 2 Hassler, 2015b
+      Schizaeales [order] 187 Hassler, 2015b
+        Schizaeaceae [family] 33 Hassler, 2015b
+        Anemiaceae [family] 125 Hassler, 2015b
+        Lygodiaceae [family] 29 Hassler, 2015b
+      Salviniales [order] 78 Hassler, 2015b
+        Marsileaceae [family] 60 Hassler, 2015b
+        Salviniaceae [family] 18 Hassler, 2015b
+      Gleicheniales [order] 163 Hassler, 2015b
+        Dipteridaceae [family] 10 Hassler, 2015b
+        Matoniaceae [family] 3 Hassler, 2015b
+        Gleicheniaceae [family] 150 Hassler, 2015b
+      Hymenophyllales [order] 600 Hassler, 2015b
+        Hymenophyllaceae [family] 600 Hassler, 2015b
+      Osmundales [order] 21 Hassler, 2015b
+        Osmundaceae [family] 21 Hassler, 2015b
 \N
 \N
 \N
-    Equisetopsida [class] 40 ssp, ref58
-      Equisetales [order] 40 ssp, ref58
-        Equisetaceae [family] 40 ssp, ref58
-    Marattiopsida [class] 140 ssp, ref58
-      Marattiales [order] 140 ssp, ref58
-        Marattiaceae [family] 140 ssp, ref58
-    Psilotopsida [class] 123 ssp, ref58
-      Psilotales [order] 17 ssp, ref58
+    Equisetopsida [class] 40 Hassler, 2015b
+      Equisetales [order] 40 Hassler, 2015b
+        Equisetaceae [family] 40 Hassler, 2015b
+    Marattiopsida [class] 140 Hassler, 2015b
+      Marattiales [order] 140 Hassler, 2015b
+        Marattiaceae [family] 140 Hassler, 2015b
+    Psilotopsida [class] 123 Hassler, 2015b
+      Psilotales [order] 17 Hassler, 2015b
         Psilotaceae [family]
-      Ophioglossales [order] 106 ssp, ref58
+      Ophioglossales [order] 106 Hassler, 2015b
         Ophioglossaceae [family]
-    Lycopodiopsida [class] 1330 ssp, ref58
-      Isoetales [order] 170 ssp, ref58
-        Isoetaceae [family] 170 ssp, ref58
-      Selaginellales [order] 690 ssp, ref58
-        Selaginellaceae [family] 690 ssp, ref58
-      Lycopodiales [order] 470 ssp, ref58
-        Lycopodiaceae [family] 470 ssp, ref58
-  Marchantiophyta [phylum] 7266 ssp, ref27
+    Lycopodiopsida [class] 1330 Hassler, 2015b
+      Isoetales [order] 170 Hassler, 2015b
+        Isoetaceae [family] 170 Hassler, 2015b
+      Selaginellales [order] 690 Hassler, 2015b
+        Selaginellaceae [family] 690 Hassler, 2015b
+      Lycopodiales [order] 470 Hassler, 2015b
+        Lycopodiaceae [family] 470 Hassler, 2015b
+  Marchantiophyta [phylum] 7266 Söderström, 2015
     Marchantiopsida [class]
       Marchantiales [order]
         Wiesnerellaceae [family]
@@ -10560,8 +10560,8 @@ Plantae [kingdom] 382000 ssp, ref12
     Sphagnopsida [class]
       Sphagnales [order]
         Sphagnaceae [family]
-  Charophyta [phylum] 6000 ssp, ref4
-  Anthocerotophyta [phylum] 220 ssp, ref27
+  Charophyta [phylum] 6000 Guiry, 2012
+  Anthocerotophyta [phylum] 220 Söderström, 2015
     Not assigned [class]
       Not assigned [order]
         Not assigned [family]
@@ -10578,7 +10578,7 @@ Plantae [kingdom] 382000 ssp, ref12
       Anthocerotales [order]
         Not assigned [family]
         Anthocerotaceae [family]
-  Chlorophyta [phylum] 8000 ssp, ref4
+  Chlorophyta [phylum] 8000 Guiry, 2012
     Charophyceae [class]
       Charales [order]
         Characeae [family]
@@ -10697,11 +10697,11 @@ Plantae [kingdom] 382000 ssp, ref12
         Gomontiaceae [family]
         Kornmanniaceae [family]
         Ulvaceae [family]
-  Glaucophyta [phylum] 15 ssp, ref28
+  Glaucophyta [phylum] 15 Guiry, 2012
     Glaucophyceae [class]
       Not assigned [order]
         Glaucocystaceae [family]
-  Rhodophyta [phylum] 7000 ssp, ref4
+  Rhodophyta [phylum] 7000 Guiry, 2012
     Bangiophyceae [class]
       Bangiales [order]
         Bangiaceae [family]
@@ -10778,8 +10778,8 @@ Plantae [kingdom] 382000 ssp, ref12
     Stylonematophyceae [class]
       Stylonematales [order]
         Stylonemataceae [family]
-Fungi [kingdom] 140000 ssp, ref18
-  Basidiomycota [phylum] 50000 ssp, ref18
+Fungi [kingdom] 140000 Kirk, 2016
+  Basidiomycota [phylum] 50000 Kirk, 2016
     Atractiellomycetes [class]
       Atractiellales [order]
         Saccoblastiaceae [family]
@@ -11101,7 +11101,7 @@ Fungi [kingdom] 140000 ssp, ref18
         Geminibasidiaceae [family]
       Wallemiales [order]
         Wallemiaceae [family]
-  Ascomycota [phylum] 87000 ssp, ref18
+  Ascomycota [phylum] 87000 Kirk, 2016
     Lecanoromycetes [class]
       Ostropales [order]
         Porinaceae [family]
@@ -11678,7 +11678,7 @@ Fungi [kingdom] 140000 ssp, ref18
     Xylonomycetes [class]
       Xylonales [order]
         Xylonaceae [family]
-  Zygomycota [phylum] 1350 ssp, ref18
+  Zygomycota [phylum] 1350 Kirk, 2016
     Not assigned [class]
       Harpellales [order]
         Legeriomycetaceae [family]
@@ -11730,7 +11730,7 @@ Fungi [kingdom] 140000 ssp, ref18
         Dimargaritaceae [family]
       Basidiobolales [order]
         Basidiobolaceae [family]
-  Chytridiomycota [phylum] 1250 ssp, ref18
+  Chytridiomycota [phylum] 1250 Kirk, 2016
     Neocallimastigomycetes [class]
       Neocallimastigales [order]
         Neocallimastigaceae [family]
@@ -11793,7 +11793,7 @@ Fungi [kingdom] 140000 ssp, ref18
         Coelomomycetaceae [family]
         Catenariaceae [family]
         Blastocladiaceae [family]
-  Glomeromycota [phylum] 275 ssp, ref18
+  Glomeromycota [phylum] 275 Kirk, 2016
     Glomeromycetes [class]
       Diversisporales [order]
         Pacisporaceae [family]
@@ -11813,7 +11813,7 @@ Fungi [kingdom] 140000 ssp, ref18
         Not assigned [family]
       Paraglomerales [order]
         Paraglomeraceae [family]
-Viruses [kingdom] 3186 ssp, ref29
+Viruses [kingdom] 3186 ICTV, 2014
   Not assigned [phylum]
     Not assigned [class]
       Not assigned [order]
@@ -11930,7 +11930,7 @@ Viruses [kingdom] 3186 ssp, ref29
         Siphoviridae [family]
         Podoviridae [family]
         Myoviridae [family]
-Bacteria [kingdom] 10358 ssp, ref33
+Bacteria [kingdom] 10358 Mora, 2011
   Proteobacteria [phylum]
     Alphaproteobacteria [class]
       Caulobacterales [order]
@@ -12456,7 +12456,7 @@ Bacteria [kingdom] 10358 ssp, ref33
         Akkermansiaceae [family]
         Rubritaleaceae [family]
         Verrucomicrobiaceae [family]
-Chromista [kingdom] 25000 ssp, ref20
+Chromista [kingdom] 25000 Chapman, 2009
   Radiozoa [phylum]
     Polycystina [class]
       Spumellaria [order]
@@ -12622,7 +12622,7 @@ Chromista [kingdom] 25000 ssp, ref20
         Williriedellidae [family]
         Xiphostylidae [family]
         Xiphothecaellidae [family]
-  Bigyra [phylum] 67 ssp, ref18
+  Bigyra [phylum] 67 Kirk, 2016
     Labyrinthulea [class]
       Thraustochytrida [order]
         Thraustochytriidae [family]
@@ -12647,7 +12647,7 @@ Chromista [kingdom] 25000 ssp, ref20
         Challengeridae [family]
         Castanellidae [family]
         Astracanthidae [family]
-  Ochrophyta [phylum] 12500 ssp, ref4
+  Ochrophyta [phylum] 12500 Guiry, 2012
     Phaeophyceae [class]
       Laminariales [order]
         Laminariaceae [family]
@@ -13413,7 +13413,7 @@ Chromista [kingdom] 25000 ssp, ref20
         Involutinidae [family]
       Not assigned [order]
         Not assigned [family]
-  Oomycota [phylum] 1700 ssp, ref18
+  Oomycota [phylum] 1700 Kirk, 2016
     Peronosporea [class]
       Saprolegniales [order]
         Saprolegniaceae [family]
@@ -13530,7 +13530,7 @@ Chromista [kingdom] 25000 ssp, ref20
         Umbellosphaeraceae [family]
       Zygodiscales [order]
         Pontosphaeraceae [family]
-Protozoa [kingdom] 8118 ssp, ref33
+Protozoa [kingdom] 8118 Mora, 2011
   Choanozoa [phylum]
     Ichthyosporea [class]
       Eccrinida [order]
@@ -13558,42 +13558,42 @@ Protozoa [kingdom] 8118 ssp, ref33
         Endemosarcidae [family]
       Not assigned [order]
         Not assigned [family]
-  Mycetozoa [phylum] 1137 ssp, ref26
-    Protosteliomycetes [class] 36 ssp, ref26
-      Protosteliales [order] 4 ssp, ref26
-        Protosteliaceae [family] 24 ssp, ref26
-        Echinosteliopsidaceae [family] 1 ssp, ref26
-        Cavosteliaceae [family] 7 ssp, ref26
-      Ceratiomyxales [order] 4 ssp, ref26
+  Mycetozoa [phylum] 1137 Lado, 2015
+    Protosteliomycetes [class] 36 Lado, 2015
+      Protosteliales [order] 4 Lado, 2015
+        Protosteliaceae [family] 24 Lado, 2015
+        Echinosteliopsidaceae [family] 1 Lado, 2015
+        Cavosteliaceae [family] 7 Lado, 2015
+      Ceratiomyxales [order] 4 Lado, 2015
         Ceratiomyxaceae [family]
-    Myxomycetes [class] 976 ssp, ref26
-      Trichiales [order] 184 ssp, ref26
-        Trichiaceae [family] 81 ssp, ref26
-        Minakatellaceae [family] 1 ssp, ref26
-        Dianemataceae [family] 15 ssp, ref26
-        Arcyriaceae [family] 84 ssp, ref26
-      Stemonitales [order] 211 ssp, ref26
-        Stemonitidaceae [family] 211 ssp, ref26
-      Physarales [order] 407 ssp, ref26
-        Physaraceae [family] 210 ssp, ref26
-        Elaeomyxaceae [family] 4 ssp, ref26
-        Didymiaceae [family] 193 ssp, ref26
-      Liceales [order] 154 ssp, ref26
-        Tubiferaceae [family] 32 ssp, ref26
-        Listerellaceae [family] 1 ssp, ref26
-        Liceaceae [family] 72 ssp, ref26
-        Dictydiaethaliaceae [family] 2 ssp, ref26
-        Cribrariaceae [family] 47 ssp, ref26
+    Myxomycetes [class] 976 Lado, 2015
+      Trichiales [order] 184 Lado, 2015
+        Trichiaceae [family] 81 Lado, 2015
+        Minakatellaceae [family] 1 Lado, 2015
+        Dianemataceae [family] 15 Lado, 2015
+        Arcyriaceae [family] 84 Lado, 2015
+      Stemonitales [order] 211 Lado, 2015
+        Stemonitidaceae [family] 211 Lado, 2015
+      Physarales [order] 407 Lado, 2015
+        Physaraceae [family] 210 Lado, 2015
+        Elaeomyxaceae [family] 4 Lado, 2015
+        Didymiaceae [family] 193 Lado, 2015
+      Liceales [order] 154 Lado, 2015
+        Tubiferaceae [family] 32 Lado, 2015
+        Listerellaceae [family] 1 Lado, 2015
+        Liceaceae [family] 72 Lado, 2015
+        Dictydiaethaliaceae [family] 2 Lado, 2015
+        Cribrariaceae [family] 47 Lado, 2015
       Not assigned [order]
         Not assigned [family]
-      Echinosteliales [order] 19 ssp, ref26
-        Echinosteliaceae [family] 15 ssp, ref26
-        Clastodermataceae [family] 4 ssp, ref26
-    Dictyosteliomycetes [class] 125 ssp, ref26
-      Dictyosteliales [order] 125 ssp, ref26
-        Dictyosteliaceae [family] 109 ssp, ref26
-        Acytosteliaceae [family] 16 ssp, ref26
-  Microsporidia [phylum] 1290 ssp, ref18
+      Echinosteliales [order] 19 Lado, 2015
+        Echinosteliaceae [family] 15 Lado, 2015
+        Clastodermataceae [family] 4 Lado, 2015
+    Dictyosteliomycetes [class] 125 Lado, 2015
+      Dictyosteliales [order] 125 Lado, 2015
+        Dictyosteliaceae [family] 109 Lado, 2015
+        Acytosteliaceae [family] 16 Lado, 2015
+  Microsporidia [phylum] 1290 Kirk, 2016
     Microsporea [class]
       Not assigned [order]
         Ordosporidae [family]
@@ -13716,11 +13716,11 @@ Protozoa [kingdom] 8118 ssp, ref33
         Hexamitidae [family]
       Trichomonadida [order]
         Monocercomonadidae [family]
-  Euglenozoa [phylum] 2000 ssp, ref4
+  Euglenozoa [phylum] 2000 Guiry, 2012
   Loukozoa [phylum]
   Metamonada [phylum]
   Sulcozoa [phylum]
-Archaea [kingdom] 502 ssp, ref33
+Archaea [kingdom] 502 Mora, 2011
   Euryarchaeota [phylum]
     Thermoplasmata [class]
       Thermoplasmatales [order]
