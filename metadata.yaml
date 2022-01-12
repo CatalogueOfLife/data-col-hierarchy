@@ -41,7 +41,7 @@ issued: 2019-05-06
 source:
   - id: plos
     doi: 10.1371/journal.pone.0119248
-    type: journal-article
+    type: article-journal
     title: A Higher Level Classification of All Living Organisms
     container-title: PLOS ONE
     volume: 10
