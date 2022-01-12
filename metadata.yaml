@@ -68,8 +68,8 @@ source:
       - family: Kirk
         given: Paul M.
     editor:
-      family: Thuesen
-      given: Erik V.
+      - family: Thuesen
+        given: Erik V.
     publisher: Public Library of Science (PLoS)
     issued: 2015-04-29
     url: http://dx.plos.org/10.1371/journal.pone.0119248
