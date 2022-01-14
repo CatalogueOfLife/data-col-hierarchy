@@ -43,7 +43,7 @@ source:
     doi: 10.1371/journal.pone.0119248
     type: article-journal
     title: A Higher Level Classification of All Living Organisms
-    container-title: PLOS ONE
+    collectionTitle: PLOS ONE
     volume: 10
     issue: 4
     author:
@@ -53,7 +53,6 @@ source:
         given: Dennis P.
       - family: Orrell
         given: Thomas M.
-        organisation: ITIS
       - family: Bailly
         given: Nicolas
         orcid: 0000-0003-4994-0653    
